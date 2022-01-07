@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\Fps_Monster_Shooter.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{861A9B91-35A1-40A7-9A72-9AAFB0C52B4F}</UniqueIdentifier>
+      <UniqueIdentifier>{AA0FDD2A-2473-4F7F-B9E3-7FBCC05DA80F}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Fps_Monster_Shooter.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{4ABC04D4-0B5D-4566-8992-96E07938555D}</UniqueIdentifier>
+      <UniqueIdentifier>{EED471AD-0B3C-48B9-8491-27C15F0B17C9}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +30,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\Fps_Monster_Shooter">
-      <UniqueIdentifier>{932A6FA1-5450-4DD7-BBEF-3095F5FED236}</UniqueIdentifier>
+      <UniqueIdentifier>{F692357E-E757-46BF-A836-13088FE07955}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Fps_Monster_Shooter\Fps_Monster_Shooter.Build.cs">
       <Filter>Source\Fps_Monster_Shooter</Filter>
@@ -75,6 +75,12 @@
       <Filter>Source\Fps_Monster_Shooter</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\Fps_Monster_Shooter\MonsterShooterGameMode.h">
+      <Filter>Source\Fps_Monster_Shooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Fps_Monster_Shooter\Projectile.cpp">
+      <Filter>Source\Fps_Monster_Shooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Fps_Monster_Shooter\Projectile.h">
       <Filter>Source\Fps_Monster_Shooter</Filter>
     </ClInclude>
   </ItemGroup>

@@ -1,12 +1,12 @@
-﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\ajsut\Documents\Unreal Projects\MonsterShooterFPS).
+﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\ajsut\Documents\Unreal Projects\MonsterShooterFps).
   Building Fps_Monster_ShooterEditor...
   Using Visual Studio 2022 14.30.30706 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
   Building 4 actions with 12 processes...
     [1/4] MonsterShooterCharacter.cpp
-    [2/4] UE4Editor-Fps_Monster_Shooter-0004.lib
-       Creating library C:\Users\ajsut\Documents\Unreal Projects\MonsterShooterFPS\Fps_Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Fps_Monster_Shooter\UE4Editor-Fps_Monster_Shooter-0004.lib and object C:\Users\ajsut\Documents\Unreal Projects\MonsterShooterFPS\Fps_Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Fps_Monster_Shooter\UE4Editor-Fps_Monster_Shooter-0004.exp
-    [3/4] UE4Editor-Fps_Monster_Shooter-0004.dll
-       Creating library C:\Users\ajsut\Documents\Unreal Projects\MonsterShooterFPS\Fps_Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Fps_Monster_Shooter\UE4Editor-Fps_Monster_Shooter-0004.suppressed.lib and object C:\Users\ajsut\Documents\Unreal Projects\MonsterShooterFPS\Fps_Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Fps_Monster_Shooter\UE4Editor-Fps_Monster_Shooter-0004.suppressed.exp
+    [2/4] UE4Editor-Fps_Monster_Shooter-0028.lib
+       Creating library C:\Users\ajsut\Documents\Unreal Projects\MonsterShooterFps\Fps_Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Fps_Monster_Shooter\UE4Editor-Fps_Monster_Shooter-0028.lib and object C:\Users\ajsut\Documents\Unreal Projects\MonsterShooterFps\Fps_Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Fps_Monster_Shooter\UE4Editor-Fps_Monster_Shooter-0028.exp
+    [3/4] UE4Editor-Fps_Monster_Shooter-0028.dll
+       Creating library C:\Users\ajsut\Documents\Unreal Projects\MonsterShooterFps\Fps_Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Fps_Monster_Shooter\UE4Editor-Fps_Monster_Shooter-0028.suppressed.lib and object C:\Users\ajsut\Documents\Unreal Projects\MonsterShooterFps\Fps_Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Fps_Monster_Shooter\UE4Editor-Fps_Monster_Shooter-0028.suppressed.exp
     [4/4] Fps_Monster_ShooterEditor.target
-  Total time in Parallel executor: 2.08 seconds
-  Total execution time: 2.73 seconds
+  Total time in Parallel executor: 12.43 seconds
+  Total execution time: 13.17 seconds

@@ -5,7 +5,14 @@
 
 #include "Camera/CameraComponent.h"
 #include "Components/CapsuleComponent.h"
-#include "Components/Inputcomponent.h"
+#include "Components/InputComponent.h"
+
+#include "Projectile.h"
+#include "Animation/AnimInstance.h"
+#include "Kismet/GameplayStatics.h"
+
+#include "MonsterShooterGameMode.h"
+
 
 // Sets default values
 AMonsterShooterCharacter::AMonsterShooterCharacter()
@@ -55,6 +62,9 @@ void AMonsterShooterCharacter::BeginPlay()
 	GunMesh->AttachToComponent(HandsMesh, FAttachmentTransformRules::SnapToTargetNotIncludingScale,
 		TEXT("GripPoint"));
 
+	World = GetWorld();
+	AnimInstance = HandsMesh->GetAnimInstance();
+
 }
 
 // Called every frame
@@ -85,6 +95,21 @@ void AMonsterShooterCharacter::SetupPlayerInputComponent(UInputComponent* Player
 
 void AMonsterShooterCharacter::OnFire()
 {
+
+	SpawnRotation = GetControlRotation();
+
+	SpawnLocation = ((MuzzleLocation != nullptr) ?
+		MuzzleLocation->GetComponentLocation() :
+		GetActorLocation()) + SpawnRotation.RotateVector(GunOffset);
+
+	//Actor will find a noncolliding location, but will not spawn unless one is found
+	FActorSpawnParameters ActorSpawnParams;
+	ActorSpawnParams.SpawnCollisionHandlingOverride =
+		ESpawnActorCollisionHandlingMethod::AdjustIfPossibleButDontSpawnIfColliding;
+
+	World->SpawnActor<AProjectile>(Projectile, SpawnLocation, SpawnRotation, ActorSpawnParams);
+
+
 }
 
 void AMonsterShooterCharacter::MoveForward(float Value)

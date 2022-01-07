@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "Fps_Monster_Shooter",
-			"Path": "C:\\Users\\ajsut\\Documents\\Unreal Projects\\MonsterShooterFPS\\Fps_Monster_Shooter\\Source\\Fps_Monster_Shooter.Target.cs",
+			"Path": "C:\\Users\\ajsut\\Documents\\Unreal Projects\\MonsterShooterFps\\Fps_Monster_Shooter\\Source\\Fps_Monster_Shooter.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "Fps_Monster_ShooterEditor",
-			"Path": "C:\\Users\\ajsut\\Documents\\Unreal Projects\\MonsterShooterFPS\\Fps_Monster_Shooter\\Source\\Fps_Monster_ShooterEditor.Target.cs",
+			"Path": "C:\\Users\\ajsut\\Documents\\Unreal Projects\\MonsterShooterFps\\Fps_Monster_Shooter\\Source\\Fps_Monster_ShooterEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]
