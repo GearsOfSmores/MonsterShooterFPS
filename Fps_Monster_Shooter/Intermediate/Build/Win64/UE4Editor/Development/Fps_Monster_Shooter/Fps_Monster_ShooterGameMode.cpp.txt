@@ -1,0 +1,22 @@
+C:\Users\ajsut\Documents\Unreal Projects\MonsterShooterFPS\Fps_Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Fps_Monster_Shooter\Definitions.Fps_Monster_Shooter.h
+C:\Users\ajsut\Documents\Unreal Projects\MonsterShooterFPS\Fps_Monster_Shooter\Source\Fps_Monster_Shooter\Fps_Monster_ShooterGameMode.h
+E:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+E:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+E:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+E:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\ajsut\Documents\Unreal Projects\MonsterShooterFPS\Fps_Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Inc\Fps_Monster_Shooter\Fps_Monster_ShooterGameMode.generated.h
+C:\Users\ajsut\Documents\Unreal Projects\MonsterShooterFPS\Fps_Monster_Shooter\Source\Fps_Monster_Shooter\Fps_Monster_ShooterHUD.h
+E:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/HUD.h
+E:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/HUDHitBox.h
+E:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/DebugTextInfo.h
+E:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DebugTextInfo.generated.h
+E:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\HUD.generated.h
+C:\Users\ajsut\Documents\Unreal Projects\MonsterShooterFPS\Fps_Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Inc\Fps_Monster_Shooter\Fps_Monster_ShooterHUD.generated.h
+C:\Users\ajsut\Documents\Unreal Projects\MonsterShooterFPS\Fps_Monster_Shooter\Source\Fps_Monster_Shooter\Fps_Monster_ShooterCharacter.h
+E:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+E:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+E:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+E:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+E:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+E:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+C:\Users\ajsut\Documents\Unreal Projects\MonsterShooterFPS\Fps_Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Inc\Fps_Monster_Shooter\Fps_Monster_ShooterCharacter.generated.h
