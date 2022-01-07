@@ -109,6 +109,15 @@ void AMonsterShooterCharacter::OnFire()
 
 	World->SpawnActor<AProjectile>(Projectile, SpawnLocation, SpawnRotation, ActorSpawnParams);
 
+	if (FireSound != NULL)
+	{
+		UGameplayStatics::PlaySoundAtLocation(this, FireSound, GetActorLocation());
+	}
+	
+	if (FireAnimation != NULL && AnimInstance != NULL) {
+		AnimInstance->Montage_Play(FireAnimation, 1.0f);
+	}
+			
 
 }
 

@@ -985,3 +985,66 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.01.07-18.55.54:329][769]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2022.01.07-18.55.54:409][769]LogUObjectHash: Compacting FUObjectHashTables data took  14.98ms
 [2022.01.07-18.55.54:433][770]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2022.01.07-19.01.32:156][ 73]LogHotReload: New module detected: UE4Editor-Fps_Monster_Shooter-0029.dll
+[2022.01.07-19.01.33:171][ 77]LogHotReload: Starting Hot-Reload from IDE
+[2022.01.07-19.01.33:972][ 77]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Fps_Monster_Shooter' in 0.0003 seconds. Added 7 classes and 2 folders.
+[2022.01.07-19.01.33:978][ 77]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2022.01.07-19.01.34:066][ 77]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0088 seconds. Added 3829 classes and 930 folders.
+[2022.01.07-19.01.34:108][ 77]Display: HotReload took  0.9s.
+[2022.01.07-19.01.37:117][197]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.07-19.01.37:122][197]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.07-19.01.37:122][197]PIE: New page: PIE session: FirstPersonExampleMap (Jan 7, 2022, 9:01:37 AM)
+[2022.01.07-19.01.37:143][197]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.01.07-19.01.37:152][197]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008981s)
+[2022.01.07-19.01.37:153][197]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.01.07-19.01.37:156][197]LogPlayLevel: PIE: World Init took: (0.003662s)
+[2022.01.07-19.01.37:156][197]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.012812s)
+[2022.01.07-19.01.37:231][197]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2022.01.07-19.01.37:233][197]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.01.07-19.01.37:233][197]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.07-19.01.37:233][197]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.07-19.01.37:233][197]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.07-19.01.37:233][197]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.07-19.01.37:233][197]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.07-19.01.37:233][197]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.07-19.01.37:233][197]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.07-19.01.37:233][197]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.07-19.01.37:234][197]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.07-19.01.37:234][197]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.07-19.01.37:234][197]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.07-19.01.37:234][197]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.07-19.01.37:237][197]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.07-19.01.37:237][197]LogAudioMixer: Display: 1: FrontRight
+[2022.01.07-19.01.37:248][197]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2022.01.07-19.01.37:248][197]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.07-19.01.37:248][197]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.07-19.01.37:248][197]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.07-19.01.37:248][197]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.07-19.01.37:249][197]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.07-19.01.37:249][197]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.07-19.01.37:249][197]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.07-19.01.37:249][197]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.07-19.01.37:249][197]LogInit: FAudioDevice initialized.
+[2022.01.07-19.01.37:249][197]LogAudio: Display: Audio Device (ID: 3) registered with world 'FirstPersonExampleMap'.
+[2022.01.07-19.01.37:283][197]LogLoad: Game class is 'BP_MonsterShooterGameMode_C'
+[2022.01.07-19.01.37:284][197]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.01.07-14.01.37
+[2022.01.07-19.01.37:284][197]LogWorld: Bringing up level for play took: 0.001029
+[2022.01.07-19.01.37:284][197]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2022.01.07-19.01.37:286][197]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.01.07-19.01.37:286][197]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.01.07-19.01.37:286][197]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.01.07-19.01.37:287][197]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.01.07-19.01.37:287][197]PIE: Server logged in
+[2022.01.07-19.01.37:288][197]PIE: Play in editor total start time 0.165 seconds.
+[2022.01.07-19.01.42:714][822]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.07-19.01.42:714][822]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.01.07-19.01.42:714][822]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.01.07-19.01.42:714][822]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.07-19.01.42:752][822]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.07-19.01.42:757][822]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.07-19.01.42:773][822]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.07-19.01.42:775][822]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.07-19.01.42:916][822]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.07-19.01.42:918][822]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.07-19.01.42:941][822]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2022.01.07-19.01.42:965][823]LogPlayLevel: Display: Destroying online subsystem :Context_10
