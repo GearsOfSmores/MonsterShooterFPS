@@ -25,7 +25,7 @@ AMonsterShooterCharacter::AMonsterShooterCharacter()
 	GetCapsuleComponent()->InitCapsuleSize(40.0f, 95.0f);
 
 	TurnRate = 45.0f;
-	LookUpRate = 105.0f;
+	LookUpRate = 45.0f;
 
 	FirstPersonCamera = CreateDefaultSubobject<UCameraComponent>(TEXT("First Person Camera"));
 	FirstPersonCamera->SetupAttachment(GetCapsuleComponent());

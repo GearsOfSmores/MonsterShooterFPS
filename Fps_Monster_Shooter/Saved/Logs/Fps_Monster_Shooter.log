@@ -1048,3 +1048,344 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.01.07-19.01.42:918][822]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2022.01.07-19.01.42:941][822]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
 [2022.01.07-19.01.42:965][823]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.01.07-19.03.16:519][311]Running E:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Fps_Monster_Shooter.uproject" -game -rocket -progress
+[2022.01.07-19.03.17:129][311]Discovering modules, targets and source code for project...
+[2022.01.07-19.03.19:637][311]Binding IntelliSense data...
+[2022.01.07-19.03.26:479][311]Binding IntelliSense data... 100%
+[2022.01.07-19.03.26:479][311]Writing project files...
+[2022.01.07-19.03.30:304][311]Writing project files... 100%
+[2022.01.07-19.03.30:563][311]Candidate modules for hot reload:
+[2022.01.07-19.03.30:563][311]  Fps_Monster_Shooter
+[2022.01.07-19.03.30:563][311]Launching UnrealBuildTool... [E:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Fps_Monster_Shooter,4849 Fps_Monster_ShooterEditor Win64 Development -Project="C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Fps_Monster_Shooter.uproject" "C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Fps_Monster_Shooter.uproject"  -IgnoreJunk]
+[2022.01.07-19.03.40:535][311]CompilerResultsLog: New page: Compilation - Jan 7, 2022, 9:03:40 AM
+[2022.01.07-19.03.40:572][311]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\ajsut\Documents\Unreal Projects\MonsterShooterFps).
+[2022.01.07-19.03.40:572][311]CompilerResultsLog: Creating makefile for Fps_Monster_ShooterEditor (no existing makefile)
+[2022.01.07-19.03.40:572][311]CompilerResultsLog: Parsing headers for Fps_Monster_ShooterEditor
+[2022.01.07-19.03.40:572][311]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\ajsut\Documents\Unreal Projects\MonsterShooterFps\Fps_Monster_Shooter\Fps_Monster_Shooter.uproject" "C:\Users\ajsut\Documents\Unreal Projects\MonsterShooterFps\Fps_Monster_Shooter\Intermediate\Build\Win64\Fps_Monster_ShooterEditor\Development\Fps_Monster_ShooterEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\ajsut\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2022.01.07-19.03.40:572][311]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2022.01.07-19.03.40:572][311]CompilerResultsLog: Reflection code generated for Fps_Monster_ShooterEditor in 4.7444882 seconds
+[2022.01.07-19.03.40:572][311]CompilerResultsLog: Building Fps_Monster_ShooterEditor...
+[2022.01.07-19.03.40:572][311]CompilerResultsLog: Using Visual Studio 2022 14.30.30706 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.01.07-19.03.40:572][311]CompilerResultsLog: Building 6 actions with 12 processes...
+[2022.01.07-19.03.40:572][311]CompilerResultsLog:   [1/6] Fps_Monster_Shooter.init.gen.cpp
+[2022.01.07-19.03.40:572][311]CompilerResultsLog:   [2/6] Enemy.cpp
+[2022.01.07-19.03.40:572][311]CompilerResultsLog:   [3/6] Enemy.gen.cpp
+[2022.01.07-19.03.40:572][311]CompilerResultsLog:   [4/6] UE4Editor-Fps_Monster_Shooter-4849.lib
+[2022.01.07-19.03.40:572][311]CompilerResultsLog:      Creating library C:\Users\ajsut\Documents\Unreal Projects\MonsterShooterFps\Fps_Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Fps_Monster_Shooter\UE4Editor-Fps_Monster_Shooter-4849.lib and object C:\Users\ajsut\Documents\Unreal Projects\MonsterShooterFps\Fps_Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Fps_Monster_Shooter\UE4Editor-Fps_Monster_Shooter-4849.exp
+[2022.01.07-19.03.40:572][311]CompilerResultsLog:   [5/6] UE4Editor-Fps_Monster_Shooter-4849.dll
+[2022.01.07-19.03.40:572][311]CompilerResultsLog:      Creating library C:\Users\ajsut\Documents\Unreal Projects\MonsterShooterFps\Fps_Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Fps_Monster_Shooter\UE4Editor-Fps_Monster_Shooter-4849.suppressed.lib and object C:\Users\ajsut\Documents\Unreal Projects\MonsterShooterFps\Fps_Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Fps_Monster_Shooter\UE4Editor-Fps_Monster_Shooter-4849.suppressed.exp
+[2022.01.07-19.03.40:572][311]CompilerResultsLog:   [6/6] Fps_Monster_ShooterEditor.target
+[2022.01.07-19.03.40:572][311]CompilerResultsLog: Total time in Parallel executor: 3.26 seconds
+[2022.01.07-19.03.40:572][311]CompilerResultsLog: Total execution time: 9.88 seconds
+[2022.01.07-19.03.40:572][311]LogMainFrame: MainFrame: Module compiling took 10.028 seconds
+[2022.01.07-19.03.40:592][311]LogClass: Could not find existing class Enemy in package /Script/Fps_Monster_Shooter for HotReload, assuming new class
+[2022.01.07-19.03.40:615][311]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Fps_Monster_Shooter' in 0.0002 seconds. Added 8 classes and 2 folders.
+[2022.01.07-19.03.40:633][311]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2022.01.07-19.03.40:707][311]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0089 seconds. Added 3830 classes and 930 folders.
+[2022.01.07-19.03.40:707][311]Display: HotReload took 10.3s.
+[2022.01.07-19.03.40:716][311]Warning: HotReload operation took 10.3s.
+[2022.01.07-19.03.41:525][311]LogVSAccessor: Warning: Couldn't goto line number '1' in 'C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Source/Fps_Monster_Shooter/Enemy.cpp'
+[2022.01.07-19.03.41:536][311]LogSlate: Window 'Add C++ Class' being destroyed
+[2022.01.07-19.03.41:890][311]LogHotReload: New module detected: UE4Editor-Fps_Monster_Shooter-4849.dll
+[2022.01.07-19.03.41:990][312]LogHotReload: Starting Hot-Reload from IDE
+[2022.01.07-19.03.42:195][312]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Fps_Monster_Shooter' in 0.0003 seconds. Added 8 classes and 2 folders.
+[2022.01.07-19.03.42:204][312]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2022.01.07-19.03.42:218][312]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0098 seconds. Added 3830 classes and 930 folders.
+[2022.01.07-19.03.42:246][312]Display: HotReload took  0.3s.
+[2022.01.07-19.12.32:944][ 36]LogHotReload: New module detected: UE4Editor-Fps_Monster_Shooter-0031.dll
+[2022.01.07-19.12.33:640][ 39]LogHotReload: Starting Hot-Reload from IDE
+[2022.01.07-19.12.33:796][ 39]LogClass: Could not find existing class Enemy in package /Script/Fps_Monster_Shooter for HotReload, assuming new class
+[2022.01.07-19.12.33:796][ 39]LogClass: Function OnHit is new.
+[2022.01.07-19.12.33:825][ 39]LogHotReload: Re-instancing Enemy after hot-reload.
+[2022.01.07-19.12.33:857][ 39]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Fps_Monster_Shooter' in 0.0003 seconds. Added 8 classes and 2 folders.
+[2022.01.07-19.12.33:866][ 39]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2022.01.07-19.12.33:970][ 39]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0092 seconds. Added 3830 classes and 930 folders.
+[2022.01.07-19.12.34:017][ 39]Display: HotReload took  0.4s.
+[2022.01.07-19.12.44:269][434]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.01.07-19.12.44:271][434]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.07-19.12.51:029][434]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.01.07-19.12.51:048][434]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.01.07-19.12.51:066][434]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.01.07-19.12.54:950][883]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Enemy
+[2022.01.07-19.12.54:961][883]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.01.07-19.12.56:823][ 75]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Enemy.BP_Enemy
+[2022.01.07-19.16.14:387][295]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Enemy" FILE="C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Content/Blueprints/BP_Enemy.uasset" SILENT=true
+[2022.01.07-19.16.14:400][295]LogSavePackage: Moving 'C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Saved/BP_EnemyDDAD41B141EC980D6262C8A369F96E9D.tmp' to 'C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Content/Blueprints/BP_Enemy.uasset'
+[2022.01.07-19.16.14:425][295]AssetCheck: New page: Asset Save: BP_Enemy
+[2022.01.07-19.16.14:425][295]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Enemy.BP_Enemy
+[2022.01.07-19.16.16:130][446]BlueprintLog: New page: Compile BP_Enemy
+[2022.01.07-19.16.16:300][446]LogUObjectHash: Compacting FUObjectHashTables data took   6.20ms
+[2022.01.07-19.16.39:712][594]LogRenderer: Reallocating scene render targets to support 1616x996 Format 10 NumSamples 1 (Frame:10259).
+[2022.01.07-19.16.39:794][596]LogSlate: Window 'BP_Enemy' being destroyed
+[2022.01.07-19.16.45:597][207]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Meshes/Vampire_MAT.Vampire_MAT
+[2022.01.07-19.16.45:604][207]LogMaterial: Display: Missing cached shadermap for Vampire_MAT in PCD3D_SM5, Default, SM5 (DDC key hash: F6B73835761D4C713CCA3CB748241796107B7E1C), compiling. 
+[2022.01.07-19.16.45:678][207]LogShaderCompilers: Display: Submitted 46 shader compile jobs with 'Normal' priority
+[2022.01.07-19.16.45:712][207]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2022.01.07-19.16.45:901][207]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.01.07-19.16.46:048][207]LogMaterial: Display: Missing cached shadermap for Vampire_MAT in PCD3D_SM5, Default, SM5 (DDC key hash: C54ED8E407FB953537082A4BA6B103461939B45A), compiling. 
+[2022.01.07-19.16.46:049][207]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: A258DCB2F0039E6E28CB35A1229C024AC92E1DDD), compiling. 
+[2022.01.07-19.16.46:050][207]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 241FB6D14D5B0B32072EE7BF852AB662A3C3374E), compiling. 
+[2022.01.07-19.16.46:051][207]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: A5B0583F122BCC78FA4A506EEE5F2423DF2B217A), compiling. 
+[2022.01.07-19.16.46:052][207]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: C3EC2BD7E73130BBE58C25D72E62D898F01C363C), compiling. 
+[2022.01.07-19.16.46:053][207]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 568CBAA6409B9E4E8AF0A66235C1633DF90EB82E), compiling. 
+[2022.01.07-19.16.46:085][207]MaterialEditorStats: Texture samplers: 0/16
+[2022.01.07-19.16.46:086][207]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.07-19.16.46:086][207]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.07-19.16.46:182][208]LogShaderCompilers: Display: Submitted 46 shader compile jobs with 'Normal' priority
+[2022.01.07-19.16.46:182][208]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.01.07-19.16.46:182][208]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.01.07-19.16.46:182][208]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 44
+[2022.01.07-19.16.46:182][208]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 38
+[2022.01.07-19.16.46:182][208]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 32
+[2022.01.07-19.16.46:182][208]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 26
+[2022.01.07-19.16.46:182][208]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 20
+[2022.01.07-19.16.46:182][208]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 14
+[2022.01.07-19.16.46:182][208]LogShaderCompilers: Display: Started 36 'Local' shader compile jobs with 'Normal' priority
+[2022.01.07-19.16.46:182][208]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.07-19.16.46:203][209]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.01.07-19.16.46:203][209]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.01.07-19.16.46:219][210]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.01.07-19.16.46:221][210]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.01.07-19.16.46:237][212]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.01.07-19.16.48:486][406]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2022.01.07-19.16.48:486][406]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.07-19.16.48:486][406]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.01.07-19.16.48:486][406]LogShaderCompilers: Display: Total job queries 102, among them cache hits 0 (0.00%)
+[2022.01.07-19.16.48:486][406]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2022.01.07-19.16.48:486][406]LogShaderCompilers: Display: RAM used: 0.01 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.01.07-19.16.48:486][406]LogShaderCompilers: Display: ================================================
+[2022.01.07-19.16.48:504][407]MaterialEditorStats: Texture samplers: 2/16
+[2022.01.07-19.16.48:504][407]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.07-19.16.48:504][407]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.07-19.16.48:517][408]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2022.01.07-19.16.48:517][408]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.07-19.16.48:543][409]MaterialEditorStats: Texture samplers: 4/16
+[2022.01.07-19.16.48:543][409]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.07-19.16.48:543][409]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.07-19.16.49:378][448]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2022.01.07-19.16.49:378][448]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.07-19.16.49:378][448]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2022.01.07-19.16.49:378][448]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.07-19.16.49:712][460]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2022.01.07-19.16.49:712][460]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.07-19.16.49:739][461]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2022.01.07-19.16.49:739][461]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.07-19.16.50:124][475]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2022.01.07-19.16.50:124][475]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.07-19.16.50:125][475]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2022.01.07-19.16.50:125][475]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.07-19.16.50:330][486]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 8
+[2022.01.07-19.16.50:330][486]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.01.07-19.16.50:479][492]LogMaterial: Display: Missing cached shadermap for Vampire_MAT in PCD3D_SM5, Default, SM5 (DDC key hash: 5F06D7082D7AA4BEF792C8EEAF4C562C2CFC3A51), compiling. 
+[2022.01.07-19.16.50:504][492]MaterialEditorStats: Texture samplers: 0/16
+[2022.01.07-19.16.50:504][492]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.07-19.16.50:504][492]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.07-19.16.50:549][493]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2022.01.07-19.16.50:549][493]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Normal' priority
+[2022.01.07-19.16.50:549][493]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2022.01.07-19.16.50:549][493]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2022.01.07-19.16.50:549][493]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.01.07-19.16.50:605][494]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2022.01.07-19.16.50:605][494]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.01.07-19.16.50:611][495]MaterialEditorStats: Texture samplers: 4/16
+[2022.01.07-19.16.50:611][495]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.07-19.16.50:611][495]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.07-19.16.50:879][517]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2022.01.07-19.16.50:879][517]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.01.07-19.16.50:954][523]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2022.01.07-19.16.50:954][523]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.01.07-19.16.51:434][572]MaterialEditorStats: Base pass shader: 83 instructions
+[2022.01.07-19.16.51:434][572]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 110 instructions
+[2022.01.07-19.16.51:434][572]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2022.01.07-19.16.51:434][572]MaterialEditorStats: Base pass vertex shader: 249 instructions
+[2022.01.07-19.16.51:434][572]MaterialEditorStats: Texture samplers: 4/16
+[2022.01.07-19.16.51:434][572]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.07-19.16.51:434][572]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.07-19.16.54:097][885]LogMaterial: Display: Missing cached shadermap for Vampire_MAT in PCD3D_SM5, Default, SM5 (DDC key hash: 78677EC09D7BEA56E24643B473459A8EBA55F5B0), compiling. 
+[2022.01.07-19.16.54:101][885]LogMaterial: Display: Missing cached shadermap for Vampire_MAT in PCD3D_SM5, Default, SM5 (DDC key hash: 0D2B6A32E45334A75B20C65F559186179C5DEC18), compiling. 
+[2022.01.07-19.16.54:103][885]LogMaterial: Display: Missing cached shadermap for Vampire_MAT in PCD3D_SM5, Default, SM5 (DDC key hash: B7A8F701B3E4FBA9D5B5E0A9C773F4B765ADF3F8), compiling. 
+[2022.01.07-19.16.54:126][885]MaterialEditorStats: Texture samplers: 0/16
+[2022.01.07-19.16.54:126][885]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.01.07-19.16.54:126][885]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.07-19.16.54:148][886]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.01.07-19.16.54:148][886]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.01.07-19.16.54:148][886]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.01.07-19.16.54:148][886]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.07-19.16.54:148][886]LogShaderCompilers: Display: Submitted 18 shader compile jobs with 'Normal' priority
+[2022.01.07-19.16.54:148][886]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 18
+[2022.01.07-19.16.54:148][886]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 15
+[2022.01.07-19.16.54:148][886]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 12
+[2022.01.07-19.16.54:148][886]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2022.01.07-19.16.54:149][886]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2022.01.07-19.16.54:149][886]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2022.01.07-19.16.54:149][886]LogShaderCompilers: Display: Started 18 'Local' shader compile jobs with 'Normal' priority
+[2022.01.07-19.16.54:655][928]MaterialEditorStats: Texture samplers: 6/16
+[2022.01.07-19.16.54:655][928]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.01.07-19.16.54:655][928]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.07-19.16.55:417][  3]MaterialEditorStats: Base pass shader: 129 instructions
+[2022.01.07-19.16.55:417][  3]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2022.01.07-19.16.55:417][  3]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.01.07-19.16.55:417][  3]MaterialEditorStats: Base pass vertex shader: 98 instructions
+[2022.01.07-19.16.55:417][  3]MaterialEditorStats: Texture samplers: 6/16
+[2022.01.07-19.16.55:417][  3]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.01.07-19.16.55:417][  3]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.07-19.16.59:500][299]LogMaterialEditor: Applying material Vampire_MAT
+[2022.01.07-19.17.01:903][299]LogMaterial: Display: Missing cached shadermap for Vampire_MAT in PCD3D_SM5, Default, SM5 (DDC key hash: F947D4C648BCD012AAD3225E0FAEF1CB45D82DBA), compiling. 
+[2022.01.07-19.17.01:980][299]LogMaterial: Display: Missing cached shadermap for Vampire_MAT in PCD3D_SM5, Default, SM5 (DDC key hash: D3A41F2D9BA60BF3828542A5477E642F1EF7D4A2), compiling. 
+[2022.01.07-19.17.02:049][299]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
+[2022.01.07-19.17.02:059][299]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2022.01.07-19.17.02:278][299]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2022.01.07-19.17.02:278][299]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.07-19.17.02:310][299]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.01.07-19.17.02:336][299]MaterialEditorStats: Texture samplers: 4/16
+[2022.01.07-19.17.02:336][299]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.01.07-19.17.02:336][299]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.07-19.17.02:343][300]MaterialEditorStats: Texture samplers: 6/16
+[2022.01.07-19.17.02:343][300]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.01.07-19.17.02:343][300]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.07-19.17.02:393][301]LogShaderCompilers: Display: Submitted 11 shader compile jobs with 'Normal' priority
+[2022.01.07-19.17.02:403][301]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2022.01.07-19.17.02:403][301]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 9
+[2022.01.07-19.17.02:403][301]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2022.01.07-19.17.02:403][301]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2022.01.07-19.17.02:403][301]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2022.01.07-19.17.02:403][301]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2022.01.07-19.17.02:403][301]LogShaderCompilers: Display: Started 11 'Local' shader compile jobs with 'Normal' priority
+[2022.01.07-19.17.02:892][345]MaterialEditorStats: Texture samplers: 7/16
+[2022.01.07-19.17.02:892][345]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.01.07-19.17.02:892][345]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.07-19.17.03:243][385]MaterialEditorStats: Base pass shader: 129 instructions
+[2022.01.07-19.17.03:243][385]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2022.01.07-19.17.03:243][385]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.01.07-19.17.03:243][385]MaterialEditorStats: Base pass vertex shader: 98 instructions
+[2022.01.07-19.17.03:243][385]MaterialEditorStats: Texture samplers: 7/16
+[2022.01.07-19.17.03:243][385]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.01.07-19.17.03:243][385]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.07-19.17.03:887][457]LogMaterialEditor: Saving and Compiling material Vampire_MAT
+[2022.01.07-19.17.03:939][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Vampire_MAT" FILE="C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Content/Meshes/Vampire_MAT.uasset" SILENT=true
+[2022.01.07-19.17.03:949][457]LogSavePackage: Moving 'C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Saved/Vampire_MATF8B873FF413D2D5377CDECA53888F001.tmp' to 'C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Content/Meshes/Vampire_MAT.uasset'
+[2022.01.07-19.17.03:969][457]AssetCheck: New page: Asset Save: Vampire_MAT
+[2022.01.07-19.17.03:969][457]LogContentValidation: Display: Validating Material /Game/Meshes/Vampire_MAT.Vampire_MAT
+[2022.01.07-19.17.37:244][130]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.01.07-19.17.37:267][130]LogContentBrowser: Creating deferred item: NewFolder
+[2022.01.07-19.17.40:835][558]LogContentBrowser: Attempting asset rename: NewFolder -> EnemyAnimations
+[2022.01.07-19.17.40:836][558]LogContentBrowser: End creating deferred item NewFolder
+[2022.01.07-19.17.53:018][603]LogSlate: Window 'Pick Skeleton' being destroyed
+[2022.01.07-19.17.53:043][603]LogContentBrowser: Deferred new asset file creation: NewBlendSpace1D
+[2022.01.07-19.17.53:055][603]LogContentBrowser: Creating deferred item: NewBlendSpace1D
+[2022.01.07-19.18.00:688][463]LogContentBrowser: Attempting asset rename: NewBlendSpace1D -> Vampire_Idle_Running
+[2022.01.07-19.18.00:691][463]LogContentBrowser: End creating deferred item NewBlendSpace1D
+[2022.01.07-19.18.02:626][636]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/EnemyAnimations/Vampire_Idle_Running.Vampire_Idle_Running
+[2022.01.07-19.18.02:746][636]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2022.01.07-19.18.02:762][636]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.01.07-19.18.02:767][636]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2022.01.07-19.18.03:284][636]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.01.07-19.18.50:692][296]LogSavePackage: Moving 'C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Saved/Vampire_Idle_Running0891F0C340AA924861132A83A7DE10AA.tmp' to 'C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Content/EnemyAnimations/Vampire_Idle_Running.uasset'
+[2022.01.07-19.18.50:721][296]AssetCheck: New page: Asset Save: Vampire_Idle_Running
+[2022.01.07-19.18.50:721][296]LogContentValidation: Display: Validating BlendSpace1D /Game/EnemyAnimations/Vampire_Idle_Running.Vampire_Idle_Running
+[2022.01.07-19.19.09:081][932]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.01.07-19.19.09:083][932]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.07-19.19.12:350][932]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.01.07-19.19.15:537][261]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2022.01.07-19.19.21:000][261]LogSlate: Window 'Message' being destroyed
+[2022.01.07-19.19.21:013][261]Message dialog closed, result: Ok, title: Message, text: Must specify a valid skeleton for the Anim Blueprint to target.
+[2022.01.07-19.19.46:686][261]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2022.01.07-19.19.46:701][261]LogContentBrowser: Deferred new asset file creation: NewAnimBlueprint
+[2022.01.07-19.19.46:713][261]LogContentBrowser: Creating deferred item: NewAnimBlueprint
+[2022.01.07-19.20.00:676][677]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> BP_Enemy_Animation
+[2022.01.07-19.20.00:683][677]LogContentBrowser: End creating deferred item NewAnimBlueprint
+[2022.01.07-19.20.02:883][878]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/EnemyAnimations/BP_Enemy_Animation.BP_Enemy_Animation
+[2022.01.07-19.20.02:899][878]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.01.07-19.20.41:271][140]LogSlate: Took 0.005053 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.01.07-19.20.46:497][302]BlueprintLog: New page: Compile BP_Enemy_Animation
+[2022.01.07-19.20.46:568][302]LogUObjectHash: Compacting FUObjectHashTables data took   5.64ms
+[2022.01.07-19.20.47:554][401]LogSavePackage: Moving 'C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Saved/BP_Enemy_Animation05C6ABF745E04A11700784BD6DC9A520.tmp' to 'C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Content/EnemyAnimations/BP_Enemy_Animation.uasset'
+[2022.01.07-19.20.47:874][401]AssetCheck: New page: Asset Save: BP_Enemy_Animation
+[2022.01.07-19.20.47:874][401]LogContentValidation: Display: Validating AnimBlueprint /Game/EnemyAnimations/BP_Enemy_Animation.BP_Enemy_Animation
+[2022.01.07-19.22.11:942][842]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.01.07-19.23.10:624][719]BlueprintLog: New page: Compile BP_Enemy_Animation
+[2022.01.07-19.23.10:675][719]LogUObjectHash: Compacting FUObjectHashTables data took   5.26ms
+[2022.01.07-19.23.11:264][774]LogSavePackage: Moving 'C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Saved/BP_Enemy_Animation860A834549B393AA901B1EBAAB4FFB4A.tmp' to 'C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Content/EnemyAnimations/BP_Enemy_Animation.uasset'
+[2022.01.07-19.23.11:285][774]AssetCheck: New page: Asset Save: BP_Enemy_Animation
+[2022.01.07-19.23.11:285][774]LogContentValidation: Display: Validating AnimBlueprint /Game/EnemyAnimations/BP_Enemy_Animation.BP_Enemy_Animation
+[2022.01.07-19.23.20:533][775]BlueprintLog: New page: Compile BP_Enemy_Animation
+[2022.01.07-19.23.20:577][775]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2022.01.07-19.23.22:253][953]LogSavePackage: Moving 'C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Saved/BP_Enemy_Animation4F074BE24B96F21CBCFED1868C38AE0B.tmp' to 'C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Content/EnemyAnimations/BP_Enemy_Animation.uasset'
+[2022.01.07-19.23.22:275][953]AssetCheck: New page: Asset Save: BP_Enemy_Animation
+[2022.01.07-19.23.22:276][953]LogContentValidation: Display: Validating AnimBlueprint /Game/EnemyAnimations/BP_Enemy_Animation.BP_Enemy_Animation
+[2022.01.07-19.23.29:460][716]BlueprintLog: New page: Compile BP_Enemy_Animation
+[2022.01.07-19.23.29:514][716]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2022.01.07-19.23.30:375][798]LogSavePackage: Moving 'C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Saved/BP_Enemy_Animation71B0AB984C41B3D30F426C962676C2B2.tmp' to 'C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Content/EnemyAnimations/BP_Enemy_Animation.uasset'
+[2022.01.07-19.23.30:395][798]AssetCheck: New page: Asset Save: BP_Enemy_Animation
+[2022.01.07-19.23.30:395][798]LogContentValidation: Display: Validating AnimBlueprint /Game/EnemyAnimations/BP_Enemy_Animation.BP_Enemy_Animation
+[2022.01.07-19.24.21:051][800]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.01.07-19.24.21:068][800]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.01.07-19.24.29:464][110]BlueprintLog: New page: Compile BP_Enemy
+[2022.01.07-19.24.29:529][110]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2022.01.07-19.24.30:252][166]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Enemy" FILE="C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Content/Blueprints/BP_Enemy.uasset" SILENT=true
+[2022.01.07-19.24.30:260][166]LogSavePackage: Moving 'C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Saved/BP_EnemyC264D9804B0813DF8C32258023A57AB8.tmp' to 'C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Content/Blueprints/BP_Enemy.uasset'
+[2022.01.07-19.24.30:285][166]AssetCheck: New page: Asset Save: BP_Enemy
+[2022.01.07-19.24.30:285][166]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Enemy.BP_Enemy
+[2022.01.07-19.25.03:227][387]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.07-19.25.03:233][387]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.07-19.25.03:233][387]PIE: New page: PIE session: FirstPersonExampleMap (Jan 7, 2022, 9:25:03 AM)
+[2022.01.07-19.25.03:234][387]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.01.07-19.25.03:242][387]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008037s)
+[2022.01.07-19.25.03:243][387]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.01.07-19.25.03:243][387]LogPlayLevel: PIE: World Init took: (0.001221s)
+[2022.01.07-19.25.03:243][387]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.009378s)
+[2022.01.07-19.25.03:273][387]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2022.01.07-19.25.03:275][387]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.01.07-19.25.03:275][387]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.07-19.25.03:276][387]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.07-19.25.03:276][387]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.07-19.25.03:276][387]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.07-19.25.03:276][387]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.07-19.25.03:276][387]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.07-19.25.03:276][387]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.07-19.25.03:276][387]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.07-19.25.03:276][387]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.07-19.25.03:276][387]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.07-19.25.03:276][387]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.07-19.25.03:276][387]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.07-19.25.03:281][387]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.07-19.25.03:281][387]LogAudioMixer: Display: 1: FrontRight
+[2022.01.07-19.25.03:292][387]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2022.01.07-19.25.03:292][387]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.07-19.25.03:292][387]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.07-19.25.03:293][387]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.07-19.25.03:293][387]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.07-19.25.03:293][387]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.07-19.25.03:293][387]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.07-19.25.03:294][387]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.07-19.25.03:294][387]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.07-19.25.03:294][387]LogInit: FAudioDevice initialized.
+[2022.01.07-19.25.03:294][387]LogAudio: Display: Audio Device (ID: 4) registered with world 'FirstPersonExampleMap'.
+[2022.01.07-19.25.03:305][387]LogLoad: Game class is 'BP_MonsterShooterGameMode_C'
+[2022.01.07-19.25.03:306][387]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.01.07-14.25.03
+[2022.01.07-19.25.03:311][387]LogWorld: Bringing up level for play took: 0.006139
+[2022.01.07-19.25.03:311][387]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2022.01.07-19.25.03:313][387]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.01.07-19.25.03:313][387]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.01.07-19.25.03:313][387]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.01.07-19.25.03:314][387]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.01.07-19.25.03:314][387]PIE: Server logged in
+[2022.01.07-19.25.03:315][387]PIE: Play in editor total start time 0.083 seconds.
+[2022.01.07-19.25.11:399][341]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.07-19.25.11:399][341]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.01.07-19.25.11:399][341]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.01.07-19.25.11:399][341]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.07-19.25.11:410][341]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.07-19.25.11:458][341]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.07-19.25.11:485][341]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.07-19.25.11:485][341]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.07-19.25.11:486][341]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.07-19.25.11:488][341]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.07-19.25.11:494][341]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2022.01.07-19.25.11:540][342]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2022.01.07-19.25.18:780][732]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2022.01.07-19.25.18:798][732]LogSavePackage: Moving 'C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Saved/FirstPersonExampleMapF87027A84C7A744B498FDDABCD59DAA6.tmp' to 'C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2022.01.07-19.25.19:783][732]LogSavePackage: Moving 'C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Saved/FirstPersonExampleMap_BuiltData2E2DCE194C5A72BE865C9E92C79890A0.tmp' to 'C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Content/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.01.07-19.25.19:842][732]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.07-19.25.19:842][732]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonCPP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.01.07-19.25.19:843][732]LogContentValidation: Display: Validating World /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
