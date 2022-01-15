@@ -1763,3 +1763,896 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.01.15-17.54.45:751][  5]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2022.01.15-17.54.45:758][  5]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
 [2022.01.15-17.54.45:774][  6]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.01.15-17.57.26:554][906]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2022.01.15-17.57.26:574][906]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2022.01.15-17.57.33:713][443]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> BP_Enemy_Health_UI
+[2022.01.15-17.57.33:719][443]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2022.01.15-17.57.35:110][544]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/BP_Enemy_Health_UI.BP_Enemy_Health_UI
+[2022.01.15-17.59.46:914][ 14]LogSlate: Window 'Color Picker' being destroyed
+[2022.01.15-18.00.14:686][ 52]BlueprintLog: New page: Compile BP_Enemy_Health_UI
+[2022.01.15-18.00.14:725][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   5.46ms
+[2022.01.15-18.00.15:750][155]LogSavePackage: Moving 'C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Saved/BP_Enemy_Health_UI53EF39264C19B0E38C9AACA551FB97D2.tmp' to 'C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Content/Blueprints/BP_Enemy_Health_UI.uasset'
+[2022.01.15-18.00.15:779][155]AssetCheck: New page: Asset Save: BP_Enemy_Health_UI
+[2022.01.15-18.00.15:779][155]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/BP_Enemy_Health_UI.BP_Enemy_Health_UI
+[2022.01.15-18.00.34:250][607]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Enemy.BP_Enemy
+[2022.01.15-18.00.36:707][836]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.01.15-18.00.36:707][836]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.15-18.00.36:778][836]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Enemy.BP_Enemy
+[2022.01.15-18.00.55:612][427]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.01.15-18.00.55:612][427]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.01.15-18.01.18:520][951]BlueprintLog: New page: Compile BP_Enemy
+[2022.01.15-18.01.18:675][951]LogSlate: Slate User Unregistered.  User Index 8
+[2022.01.15-18.01.18:675][951]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.01.15-18.01.18:681][951]LogUObjectHash: Compacting FUObjectHashTables data took   5.19ms
+[2022.01.15-18.01.19:638][ 43]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Enemy" FILE="C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Content/Blueprints/BP_Enemy.uasset" SILENT=true
+[2022.01.15-18.01.19:653][ 43]LogSavePackage: Moving 'C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Saved/BP_Enemy56149F6741B318D1C7E9279B1B0FA5B2.tmp' to 'C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Content/Blueprints/BP_Enemy.uasset'
+[2022.01.15-18.01.19:678][ 43]AssetCheck: New page: Asset Save: BP_Enemy
+[2022.01.15-18.01.19:678][ 43]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Enemy.BP_Enemy
+[2022.01.15-18.01.23:840][293]LogRenderer: Reallocating scene render targets to support 1616x1260 Format 10 NumSamples 1 (Frame:1).
+[2022.01.15-18.01.35:591][338]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.01.15-18.01.50:788][654]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Enemy" FILE="C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Content/Blueprints/BP_Enemy.uasset" SILENT=true
+[2022.01.15-18.01.50:798][654]LogSavePackage: Moving 'C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Saved/BP_Enemy36B67916455BDD85610BE2A7B8C60D8B.tmp' to 'C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Content/Blueprints/BP_Enemy.uasset'
+[2022.01.15-18.01.50:843][654]AssetCheck: New page: Asset Save: BP_Enemy
+[2022.01.15-18.01.50:843][654]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Enemy.BP_Enemy
+[2022.01.15-18.01.51:157][688]BlueprintLog: New page: Compile BP_Enemy
+[2022.01.15-18.01.51:320][688]LogUObjectHash: Compacting FUObjectHashTables data took   5.30ms
+[2022.01.15-18.02.45:784][ 29]BlueprintLog: New page: Compile BP_Enemy
+[2022.01.15-18.02.45:938][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   5.47ms
+[2022.01.15-18.02.46:610][ 89]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Enemy" FILE="C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Content/Blueprints/BP_Enemy.uasset" SILENT=true
+[2022.01.15-18.02.46:619][ 89]LogSavePackage: Moving 'C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Saved/BP_EnemyD61CCD0141F83C488ECFCCB8CD41895A.tmp' to 'C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Content/Blueprints/BP_Enemy.uasset'
+[2022.01.15-18.02.46:718][ 89]AssetCheck: New page: Asset Save: BP_Enemy
+[2022.01.15-18.02.46:718][ 89]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Enemy.BP_Enemy
+[2022.01.15-18.03.21:124][586]LogUObjectHash: Compacting FUObjectHashTables data took   5.25ms
+[2022.01.15-18.03.21:135][586]LogSavePackage: Moving 'C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Saved/Gameplay_Auto239C734B04F60B468A7F2488E4E35D0A8.tmp' to 'C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Saved/Autosaves/Game/Maps/Gameplay_Auto2.umap'
+[2022.01.15-18.03.21:135][586]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Gameplay' took 0.049
+[2022.01.15-18.03.21:135][586]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.049
+[2022.01.15-18.04.13:018][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Enemy" FILE="C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Content/Blueprints/BP_Enemy.uasset" SILENT=true
+[2022.01.15-18.04.13:029][767]LogSavePackage: Moving 'C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Saved/BP_Enemy58BACF0543E18B0F01BC4D8076485146.tmp' to 'C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Content/Blueprints/BP_Enemy.uasset'
+[2022.01.15-18.04.13:066][767]AssetCheck: New page: Asset Save: BP_Enemy
+[2022.01.15-18.04.13:066][767]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Enemy.BP_Enemy
+[2022.01.15-18.04.13:359][801]BlueprintLog: New page: Compile BP_Enemy
+[2022.01.15-18.04.13:532][801]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2022.01.15-18.04.27:998][365]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.01.15-18.04.27:998][365]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.15-18.04.31:177][646]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Enemy.BP_Enemy
+[2022.01.15-18.06.03:803][897]LogWindows: LaunchURL https://docs.unrealengine.com/4.27/en//Engine/Blueprints/index.html?utm_source=editor&utm_medium=docs&utm_campaign=help_menu_asset
+[2022.01.15-18.08.16:343][581]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Enemy" FILE="C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Content/Blueprints/BP_Enemy.uasset" SILENT=true
+[2022.01.15-18.08.16:358][581]LogSavePackage: Moving 'C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Saved/BP_Enemy67A3B12E4F2EC6E1BB6E65A76A43025C.tmp' to 'C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Content/Blueprints/BP_Enemy.uasset'
+[2022.01.15-18.08.16:380][581]AssetCheck: New page: Asset Save: BP_Enemy
+[2022.01.15-18.08.16:380][581]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Enemy.BP_Enemy
+[2022.01.15-18.08.16:809][630]BlueprintLog: New page: Compile BP_Enemy
+[2022.01.15-18.08.16:970][630]LogUObjectHash: Compacting FUObjectHashTables data took   5.68ms
+[2022.01.15-18.08.49:330][937]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2022.01.15-18.08.49:340][937]LogSavePackage: Moving 'C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Saved/Gameplay4D02214240BC21AB508A478EEEBFBCCF.tmp' to 'C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Content/Maps/Gameplay.umap'
+[2022.01.15-18.08.49:353][937]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Gameplay_BuiltData" FILE="C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Content/Maps/Gameplay_BuiltData.uasset" SILENT=true
+[2022.01.15-18.08.49:366][937]LogSavePackage: Moving 'C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Saved/Gameplay_BuiltDataF863D35F4C448F7CB884C6B5456C315D.tmp' to 'C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Content/Maps/Gameplay_BuiltData.uasset'
+[2022.01.15-18.08.49:387][937]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.15-18.08.49:387][937]LogContentValidation: Display: Validating World /Game/Maps/Gameplay.Gameplay
+[2022.01.15-18.08.49:387][937]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Gameplay_BuiltData.Gameplay_BuiltData
+[2022.01.15-18.08.51:520][ 33]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.15-18.08.51:526][ 33]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.15-18.08.51:527][ 33]PIE: New page: PIE session: Gameplay (Jan 15, 2022, 8:08:51 AM)
+[2022.01.15-18.08.51:527][ 33]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Gameplay
+[2022.01.15-18.08.51:529][ 33]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002239s)
+[2022.01.15-18.08.51:530][ 33]LogAIModule: Creating AISystem for world Gameplay
+[2022.01.15-18.08.51:530][ 33]LogPlayLevel: PIE: World Init took: (0.000938s)
+[2022.01.15-18.08.51:530][ 33]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Gameplay.Gameplay to /Game/Maps/UEDPIE_0_Gameplay.Gameplay (0.003273s)
+[2022.01.15-18.08.51:570][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   5.06ms
+[2022.01.15-18.08.51:571][ 33]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.01.15-18.08.51:571][ 33]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.15-18.08.51:571][ 33]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.15-18.08.51:571][ 33]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.15-18.08.51:571][ 33]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.15-18.08.51:571][ 33]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.15-18.08.51:571][ 33]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.15-18.08.51:571][ 33]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.15-18.08.51:571][ 33]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.15-18.08.51:572][ 33]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.15-18.08.51:572][ 33]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.15-18.08.51:572][ 33]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.15-18.08.51:572][ 33]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.15-18.08.51:576][ 33]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.15-18.08.51:576][ 33]LogAudioMixer: Display: 1: FrontRight
+[2022.01.15-18.08.51:584][ 33]LogAudioMixer: Display: Using Audio Device 4 - 27GL850 (AMD High Definition Audio Device)
+[2022.01.15-18.08.51:584][ 33]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.15-18.08.51:584][ 33]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.15-18.08.51:584][ 33]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.15-18.08.51:585][ 33]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.15-18.08.51:585][ 33]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.15-18.08.51:585][ 33]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.15-18.08.51:586][ 33]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.15-18.08.51:586][ 33]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.15-18.08.51:586][ 33]LogInit: FAudioDevice initialized.
+[2022.01.15-18.08.51:586][ 33]LogAudio: Display: Audio Device (ID: 8) registered with world 'Gameplay'.
+[2022.01.15-18.08.51:598][ 33]LogLoad: Game class is 'BP_MonsterShooterGameMode_C'
+[2022.01.15-18.08.51:600][ 33]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Gameplay.Gameplay up for play (max tick rate 0) at 2022.01.15-13.08.51
+[2022.01.15-18.08.51:601][ 33]LogWorld: Bringing up level for play took: 0.001900
+[2022.01.15-18.08.51:601][ 33]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2022.01.15-18.08.51:602][ 33]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.01.15-18.08.51:602][ 33]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.01.15-18.08.51:602][ 33]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.01.15-18.08.51:604][ 33]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.01.15-18.08.51:604][ 33]PIE: Server logged in
+[2022.01.15-18.08.51:605][ 33]PIE: Play in editor total start time 0.079 seconds.
+[2022.01.15-18.08.56:965][661]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.15-18.08.56:965][661]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Gameplay
+[2022.01.15-18.08.56:965][661]LogWorld: UWorld::CleanupWorld for Gameplay, bSessionEnded=true, bCleanupResources=true
+[2022.01.15-18.08.56:965][661]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.15-18.08.56:977][661]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.15-18.08.57:028][661]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.15-18.08.57:058][661]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.15-18.08.57:058][661]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.15-18.08.57:059][661]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.15-18.08.57:061][661]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.15-18.08.57:066][661]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2022.01.15-18.08.57:114][662]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2022.01.15-18.10.17:599][ 99]Running E:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Fps_Monster_Shooter.uproject" -game -rocket -progress
+[2022.01.15-18.10.18:005][ 99]Discovering modules, targets and source code for project...
+[2022.01.15-18.10.21:511][ 99]Binding IntelliSense data...
+[2022.01.15-18.10.24:224][ 99]Binding IntelliSense data... 100%
+[2022.01.15-18.10.24:325][ 99]Writing project files...
+[2022.01.15-18.10.27:630][ 99]Writing project files... 100%
+[2022.01.15-18.10.27:893][ 99]Candidate modules for hot reload:
+[2022.01.15-18.10.27:893][ 99]  Fps_Monster_Shooter
+[2022.01.15-18.10.27:893][ 99]Launching UnrealBuildTool... [E:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Fps_Monster_Shooter,7086 Fps_Monster_ShooterEditor Win64 Development -Project="C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Fps_Monster_Shooter.uproject" "C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Fps_Monster_Shooter.uproject"  -IgnoreJunk]
+[2022.01.15-18.10.35:932][ 99]CompilerResultsLog: New page: Compilation - Jan 15, 2022, 8:10:35 AM
+[2022.01.15-18.10.35:932][ 99]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\ajsut\Documents\Unreal Projects\MonsterShooterFps).
+[2022.01.15-18.10.35:932][ 99]CompilerResultsLog: Creating makefile for Fps_Monster_ShooterEditor (no existing makefile)
+[2022.01.15-18.10.35:932][ 99]CompilerResultsLog: Parsing headers for Fps_Monster_ShooterEditor
+[2022.01.15-18.10.35:932][ 99]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\ajsut\Documents\Unreal Projects\MonsterShooterFps\Fps_Monster_Shooter\Fps_Monster_Shooter.uproject" "C:\Users\ajsut\Documents\Unreal Projects\MonsterShooterFps\Fps_Monster_Shooter\Intermediate\Build\Win64\Fps_Monster_ShooterEditor\Development\Fps_Monster_ShooterEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\ajsut\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2022.01.15-18.10.35:932][ 99]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2022.01.15-18.10.35:932][ 99]CompilerResultsLog: Reflection code generated for Fps_Monster_ShooterEditor in 4.081303 seconds
+[2022.01.15-18.10.35:932][ 99]CompilerResultsLog: Building Fps_Monster_ShooterEditor...
+[2022.01.15-18.10.35:932][ 99]CompilerResultsLog: Using Visual Studio 2022 14.30.30706 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705) and Windows 10.0.20348.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.01.15-18.10.35:932][ 99]CompilerResultsLog: Building 6 actions with 12 processes...
+[2022.01.15-18.10.35:932][ 99]CompilerResultsLog:   [1/6] Door.cpp
+[2022.01.15-18.10.35:932][ 99]CompilerResultsLog:   [2/6] Fps_Monster_Shooter.init.gen.cpp
+[2022.01.15-18.10.35:932][ 99]CompilerResultsLog:   [3/6] Door.gen.cpp
+[2022.01.15-18.10.35:932][ 99]CompilerResultsLog:   [4/6] UE4Editor-Fps_Monster_Shooter-7086.lib
+[2022.01.15-18.10.35:932][ 99]CompilerResultsLog:      Creating library C:\Users\ajsut\Documents\Unreal Projects\MonsterShooterFps\Fps_Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Fps_Monster_Shooter\UE4Editor-Fps_Monster_Shooter-7086.lib and object C:\Users\ajsut\Documents\Unreal Projects\MonsterShooterFps\Fps_Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Fps_Monster_Shooter\UE4Editor-Fps_Monster_Shooter-7086.exp
+[2022.01.15-18.10.35:932][ 99]CompilerResultsLog:   [5/6] UE4Editor-Fps_Monster_Shooter-7086.dll
+[2022.01.15-18.10.35:932][ 99]CompilerResultsLog:      Creating library C:\Users\ajsut\Documents\Unreal Projects\MonsterShooterFps\Fps_Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Fps_Monster_Shooter\UE4Editor-Fps_Monster_Shooter-7086.suppressed.lib and object C:\Users\ajsut\Documents\Unreal Projects\MonsterShooterFps\Fps_Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Fps_Monster_Shooter\UE4Editor-Fps_Monster_Shooter-7086.suppressed.exp
+[2022.01.15-18.10.35:932][ 99]CompilerResultsLog:   [6/6] Fps_Monster_ShooterEditor.target
+[2022.01.15-18.10.35:933][ 99]CompilerResultsLog: Total time in Parallel executor: 1.63 seconds
+[2022.01.15-18.10.35:933][ 99]CompilerResultsLog: Total execution time: 7.96 seconds
+[2022.01.15-18.10.35:933][ 99]LogMainFrame: MainFrame: Module compiling took 8.055 seconds
+[2022.01.15-18.10.35:956][ 99]LogClass: Could not find existing class Door in package /Script/Fps_Monster_Shooter for HotReload, assuming new class
+[2022.01.15-18.10.36:006][ 99]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Fps_Monster_Shooter' in 0.0003 seconds. Added 9 classes and 2 folders.
+[2022.01.15-18.10.36:017][ 99]Display: HotReload successful (4 functions remapped  0 scriptstructs remapped)
+[2022.01.15-18.10.36:135][ 99]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0107 seconds. Added 3831 classes and 930 folders.
+[2022.01.15-18.10.36:135][ 99]Display: HotReload took  8.4s.
+[2022.01.15-18.10.36:138][ 99]Warning: HotReload operation took  8.4s.
+[2022.01.15-18.10.36:848][ 99]LogVSAccessor: Warning: Couldn't goto line number '1' in 'C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Source/Fps_Monster_Shooter/Door.h'
+[2022.01.15-18.10.36:849][ 99]LogVSAccessor: Warning: Couldn't open file 'C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Source/Fps_Monster_Shooter/Door.cpp'.
+[2022.01.15-18.10.36:858][ 99]LogSlate: Window 'Add C++ Class' being destroyed
+[2022.01.15-18.10.37:160][ 99]LogHotReload: New module detected: UE4Editor-Fps_Monster_Shooter-7086.dll
+[2022.01.15-18.10.37:209][100]LogHotReload: Starting Hot-Reload from IDE
+[2022.01.15-18.10.37:251][100]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Fps_Monster_Shooter' in 0.0003 seconds. Added 9 classes and 2 folders.
+[2022.01.15-18.10.37:263][100]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2022.01.15-18.10.37:279][100]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0107 seconds. Added 3831 classes and 930 folders.
+[2022.01.15-18.10.37:286][100]Display: HotReload took  0.1s.
+[2022.01.15-18.12.55:928][511]LogVSAccessor: Warning: Couldn't goto line number '1' in 'C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Source/Fps_Monster_Shooter/Door.cpp'
+[2022.01.15-18.21.29:128][ 41]LogHotReload: New module detected: UE4Editor-Fps_Monster_Shooter-0050.dll
+[2022.01.15-18.21.29:828][ 44]LogHotReload: Starting Hot-Reload from IDE
+[2022.01.15-18.21.29:894][ 44]LogClass: Could not find existing class Door in package /Script/Fps_Monster_Shooter for HotReload, assuming new class
+[2022.01.15-18.21.29:894][ 44]LogClass: Function OnHit is new.
+[2022.01.15-18.21.29:951][ 44]LogHotReload: Re-instancing Door after hot-reload.
+[2022.01.15-18.21.29:999][ 44]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Fps_Monster_Shooter' in 0.0003 seconds. Added 9 classes and 2 folders.
+[2022.01.15-18.21.30:013][ 44]Display: HotReload successful (4 functions remapped  0 scriptstructs remapped)
+[2022.01.15-18.21.30:183][ 44]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0114 seconds. Added 3831 classes and 930 folders.
+[2022.01.15-18.21.30:191][ 44]Display: HotReload took  0.4s.
+[2022.01.15-18.24.17:756][543]LogHotReload: New module detected: UE4Editor-Fps_Monster_Shooter-0051.dll
+[2022.01.15-18.24.18:450][546]LogHotReload: Starting Hot-Reload from IDE
+[2022.01.15-18.24.18:563][546]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Fps_Monster_Shooter' in 0.0003 seconds. Added 9 classes and 2 folders.
+[2022.01.15-18.24.18:575][546]Display: HotReload successful (5 functions remapped  0 scriptstructs remapped)
+[2022.01.15-18.24.18:737][546]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0120 seconds. Added 3831 classes and 930 folders.
+[2022.01.15-18.24.18:745][546]Display: HotReload took  0.3s.
+[2022.01.15-18.24.45:793][769]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.01.15-18.24.45:796][769]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.01.15-18.24.53:106][769]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.01.15-18.24.53:119][769]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.01.15-18.24.53:137][769]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.01.15-18.24.55:970][ 76]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Door
+[2022.01.15-18.24.55:982][ 76]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.01.15-18.24.59:290][355]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Door.BP_Door
+[2022.01.15-18.25.14:144][789]BlueprintLog: New page: Compile BP_Door
+[2022.01.15-18.25.14:368][789]LogUObjectHash: Compacting FUObjectHashTables data took  11.98ms
+[2022.01.15-18.25.14:968][843]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Door" FILE="C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Content/Blueprints/BP_Door.uasset" SILENT=true
+[2022.01.15-18.25.14:982][843]LogSavePackage: Moving 'C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Saved/BP_Door06F13D5C467F220C2D6943A07740F912.tmp' to 'C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Content/Blueprints/BP_Door.uasset'
+[2022.01.15-18.25.15:004][843]AssetCheck: New page: Asset Save: BP_Door
+[2022.01.15-18.25.15:004][843]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Door.BP_Door
+[2022.01.15-18.25.59:667][274]BlueprintLog: New page: Compile BP_Door
+[2022.01.15-18.25.59:782][274]LogUObjectHash: Compacting FUObjectHashTables data took   8.58ms
+[2022.01.15-18.26.00:195][310]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Door" FILE="C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Content/Blueprints/BP_Door.uasset" SILENT=true
+[2022.01.15-18.26.00:205][310]LogSavePackage: Moving 'C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Saved/BP_DoorCD9BA4AF48F891BB51378194AB081587.tmp' to 'C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Content/Blueprints/BP_Door.uasset'
+[2022.01.15-18.26.00:236][310]AssetCheck: New page: Asset Save: BP_Door
+[2022.01.15-18.26.00:236][310]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Door.BP_Door
+[2022.01.15-18.26.32:092][802]LogUObjectHash: Compacting FUObjectHashTables data took   6.50ms
+[2022.01.15-18.26.32:105][802]LogSavePackage: Moving 'C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Saved/Gameplay59D888B3442F9525E49F1790ACB64F30.tmp' to 'C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Content/Maps/Gameplay.umap'
+[2022.01.15-18.26.32:116][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Gameplay_BuiltData" FILE="C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Content/Maps/Gameplay_BuiltData.uasset" SILENT=true
+[2022.01.15-18.26.32:128][802]LogSavePackage: Moving 'C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Saved/Gameplay_BuiltData32F085B946474022F85957BCC1CA63D7.tmp' to 'C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Content/Maps/Gameplay_BuiltData.uasset'
+[2022.01.15-18.26.32:150][802]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.15-18.26.32:150][802]LogContentValidation: Display: Validating World /Game/Maps/Gameplay.Gameplay
+[2022.01.15-18.26.32:150][802]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Gameplay_BuiltData.Gameplay_BuiltData
+[2022.01.15-18.26.33:198][885]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.15-18.26.33:207][885]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.15-18.26.33:207][885]PIE: New page: PIE session: Gameplay (Jan 15, 2022, 8:26:33 AM)
+[2022.01.15-18.26.33:251][885]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Gameplay
+[2022.01.15-18.26.33:253][885]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002290s)
+[2022.01.15-18.26.33:254][885]LogAIModule: Creating AISystem for world Gameplay
+[2022.01.15-18.26.33:254][885]LogPlayLevel: PIE: World Init took: (0.000950s)
+[2022.01.15-18.26.33:254][885]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Gameplay.Gameplay to /Game/Maps/UEDPIE_0_Gameplay.Gameplay (0.003360s)
+[2022.01.15-18.26.33:297][885]LogUObjectHash: Compacting FUObjectHashTables data took   5.27ms
+[2022.01.15-18.26.33:297][885]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.01.15-18.26.33:298][885]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.15-18.26.33:298][885]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.15-18.26.33:298][885]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.15-18.26.33:298][885]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.15-18.26.33:298][885]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.15-18.26.33:298][885]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.15-18.26.33:298][885]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.15-18.26.33:298][885]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.15-18.26.33:298][885]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.15-18.26.33:298][885]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.15-18.26.33:298][885]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.15-18.26.33:298][885]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.15-18.26.33:301][885]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.15-18.26.33:301][885]LogAudioMixer: Display: 1: FrontRight
+[2022.01.15-18.26.33:309][885]LogAudioMixer: Display: Using Audio Device 4 - 27GL850 (AMD High Definition Audio Device)
+[2022.01.15-18.26.33:310][885]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.15-18.26.33:310][885]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.15-18.26.33:310][885]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.15-18.26.33:310][885]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.15-18.26.33:310][885]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.15-18.26.33:310][885]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.15-18.26.33:311][885]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.15-18.26.33:311][885]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.15-18.26.33:311][885]LogInit: FAudioDevice initialized.
+[2022.01.15-18.26.33:311][885]LogAudio: Display: Audio Device (ID: 9) registered with world 'Gameplay'.
+[2022.01.15-18.26.33:322][885]LogLoad: Game class is 'BP_MonsterShooterGameMode_C'
+[2022.01.15-18.26.33:323][885]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Gameplay.Gameplay up for play (max tick rate 0) at 2022.01.15-13.26.33
+[2022.01.15-18.26.33:324][885]LogWorld: Bringing up level for play took: 0.001208
+[2022.01.15-18.26.33:324][885]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2022.01.15-18.26.33:325][885]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.01.15-18.26.33:325][885]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.01.15-18.26.33:325][885]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.01.15-18.26.33:326][885]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.01.15-18.26.33:326][885]PIE: Server logged in
+[2022.01.15-18.26.33:327][885]PIE: Play in editor total start time 0.122 seconds.
+[2022.01.15-18.26.36:525][255]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.01.15-18.26.36:525][255]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.01.15-18.26.36:525][255]LogNet: Browse: /Game/Maps/Gameplay
+[2022.01.15-18.26.36:526][255]LogLoad: LoadMap: /Game/Maps/Gameplay
+[2022.01.15-18.26.36:526][255]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Gameplay
+[2022.01.15-18.26.36:528][255]LogWorld: UWorld::CleanupWorld for Gameplay, bSessionEnded=true, bCleanupResources=true
+[2022.01.15-18.26.36:528][255]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.15-18.26.36:589][255]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.15-18.26.36:595][255]LogUObjectHash: Compacting FUObjectHashTables data took   5.22ms
+[2022.01.15-18.26.36:596][255]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Gameplay
+[2022.01.15-18.26.36:598][255]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002412s)
+[2022.01.15-18.26.36:599][255]LogAIModule: Creating AISystem for world Gameplay
+[2022.01.15-18.26.36:599][255]LogPlayLevel: PIE: World Init took: (0.000947s)
+[2022.01.15-18.26.36:599][255]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Gameplay.Gameplay to /Game/Maps/UEDPIE_0_Gameplay.Gameplay (0.003469s)
+[2022.01.15-18.26.36:599][255]LogAudio: Display: Audio Device (ID: 9) registered with world 'Gameplay'.
+[2022.01.15-18.26.36:599][255]LogLoad: Game class is 'BP_MonsterShooterGameMode_C'
+[2022.01.15-18.26.36:600][255]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Gameplay.Gameplay up for play (max tick rate 0) at 2022.01.15-13.26.36
+[2022.01.15-18.26.36:600][255]LogWorld: Bringing up level for play took: 0.001080
+[2022.01.15-18.26.36:601][255]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.01.15-18.26.36:601][255]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.01.15-18.26.36:601][255]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.01.15-18.26.36:602][255]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.01.15-18.26.36:603][255]LogLoad: Took 0.077304 seconds to LoadMap(/Game/Maps/UEDPIE_0_Gameplay)
+[2022.01.15-18.26.40:002][640]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.15-18.26.40:002][640]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Gameplay
+[2022.01.15-18.26.40:002][640]LogWorld: UWorld::CleanupWorld for Gameplay, bSessionEnded=true, bCleanupResources=true
+[2022.01.15-18.26.40:003][640]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.15-18.26.40:012][640]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.15-18.26.40:040][640]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.15-18.26.40:077][640]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.15-18.26.40:077][640]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.15-18.26.40:078][640]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.15-18.26.40:080][640]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.15-18.26.40:086][640]LogUObjectHash: Compacting FUObjectHashTables data took   5.24ms
+[2022.01.15-18.26.40:127][641]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2022.01.15-18.27.35:312][666]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.01.15-18.28.42:733][124]Cmd: TRANSACTION UNDO
+[2022.01.15-18.28.42:733][124]LogEditorTransaction: Undo Set Scale
+[2022.01.15-18.28.42:923][127]Cmd: TRANSACTION UNDO
+[2022.01.15-18.28.42:923][127]LogEditorTransaction: Undo Set Scale
+[2022.01.15-18.28.43:854][204]Cmd: TRANSACTION UNDO
+[2022.01.15-18.28.43:854][204]LogEditorTransaction: Undo Set Scale
+[2022.01.15-18.28.55:514][484]LogEditorViewport: Clicking on Actor (LMB): BP_Enemy_C (BP_Enemy)
+[2022.01.15-18.28.58:790][779]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.01.15-18.28.59:332][833]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.01.15-18.29.44:321][579]Cmd: DELETE
+[2022.01.15-18.29.44:323][579]Cmd: ACTOR DELETE
+[2022.01.15-18.29.44:339][579]LogEditorActor: Deleted Actor: Brush
+[2022.01.15-18.29.44:385][579]LogUObjectHash: Compacting FUObjectHashTables data took   5.38ms
+[2022.01.15-18.29.44:393][579]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2022.01.15-18.29.45:337][684]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.01.15-18.29.45:915][739]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.01.15-18.29.46:476][796]LogEditorViewport: Clicking on Actor (LMB): BP_Door_C (BP_Door)
+[2022.01.15-18.29.47:507][903]Cmd: DELETE
+[2022.01.15-18.29.47:507][903]Cmd: ACTOR DELETE
+[2022.01.15-18.29.47:508][903]LogEditorActor: Deleted Actor: BP_Door_C
+[2022.01.15-18.29.47:553][903]LogUObjectHash: Compacting FUObjectHashTables data took   5.18ms
+[2022.01.15-18.29.47:555][903]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2022.01.15-18.29.51:611][250]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.01.15-18.31.51:932][ 80]Cmd: DELETE
+[2022.01.15-18.31.51:932][ 80]Cmd: ACTOR DELETE
+[2022.01.15-18.31.51:934][ 80]LogEditorActor: Deleted Actor: Brush
+[2022.01.15-18.31.51:980][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   5.67ms
+[2022.01.15-18.31.51:984][ 80]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2022.01.15-18.33.19:128][426]Cmd: DELETE
+[2022.01.15-18.33.19:128][426]Cmd: ACTOR DELETE
+[2022.01.15-18.33.19:130][426]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.01.15-18.33.19:172][426]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2022.01.15-18.33.19:177][426]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2022.01.15-18.33.21:421][619]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.01.15-18.34.24:419][330]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 1389057E42925DDD4E38DA135285F562EFE6E197), compiling. 
+[2022.01.15-18.34.24:444][331]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.01.15-18.34.24:449][331]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.01.15-18.34.24:449][331]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.01.15-18.34.24:449][331]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.15-18.34.24:529][331]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Normal' priority
+[2022.01.15-18.34.24:529][331]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 41
+[2022.01.15-18.34.24:529][331]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 35
+[2022.01.15-18.34.24:529][331]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 29
+[2022.01.15-18.34.24:529][331]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 23
+[2022.01.15-18.34.24:529][331]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 17
+[2022.01.15-18.34.24:529][331]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2022.01.15-18.34.24:529][331]LogShaderCompilers: Display: Started 36 'Local' shader compile jobs with 'Normal' priority
+[2022.01.15-18.34.24:597][331]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 73DA02BB2270A8AA52DAD2FB7B7FFFACFBC25EF8), compiling. 
+[2022.01.15-18.34.24:687][332]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 085BF9D7FA738F86655FE14438E0D300164E966E), compiling. 
+[2022.01.15-18.34.24:698][333]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.01.15-18.34.24:721][333]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Normal' priority
+[2022.01.15-18.34.24:762][333]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 7D0082E266821D813BED244715757FB1CE6EC02C), compiling. 
+[2022.01.15-18.34.24:837][334]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: AA7ACEE36AFA3693F890BAB6A524453712B4EF9C), compiling. 
+[2022.01.15-18.34.24:848][335]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.01.15-18.34.24:875][335]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Normal' priority
+[2022.01.15-18.34.24:908][335]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: E700F2ED5078EEED5648CC3AE4A17A563EA52E98), compiling. 
+[2022.01.15-18.34.24:918][336]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.01.15-18.34.24:944][336]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Normal' priority
+[2022.01.15-18.34.24:971][336]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 3381EE07BACEF2D3B8E685FAD19FE326FA8CA402), compiling. 
+[2022.01.15-18.34.24:984][337]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.01.15-18.34.25:007][337]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Normal' priority
+[2022.01.15-18.34.25:038][337]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 5CABCC91311B4EE23223D0ED9974CB3BED396F4E), compiling. 
+[2022.01.15-18.34.25:875][371]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2022.01.15-18.34.25:875][371]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.15-18.34.25:875][371]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.01.15-18.34.25:875][371]LogShaderCompilers: Display: Total job queries 344, among them cache hits 0 (0.00%)
+[2022.01.15-18.34.25:875][371]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2022.01.15-18.34.25:875][371]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.01.15-18.34.25:875][371]LogShaderCompilers: Display: ================================================
+[2022.01.15-18.34.26:425][388]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2022.01.15-18.34.26:425][388]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.15-18.34.26:455][390]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2022.01.15-18.34.26:455][390]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.15-18.34.26:643][394]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2022.01.15-18.34.26:643][394]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.15-18.34.26:805][399]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2022.01.15-18.34.26:805][399]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.15-18.34.27:059][404]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2022.01.15-18.34.27:059][404]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.15-18.34.27:145][404]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.01.15-18.34.27:145][404]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.15-18.34.27:265][406]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 169
+[2022.01.15-18.34.27:265][406]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 159
+[2022.01.15-18.34.27:265][406]LogShaderCompilers: Display: Started 20 'Local' shader compile jobs with 'Normal' priority
+[2022.01.15-18.34.27:407][413]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 149
+[2022.01.15-18.34.27:407][413]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.01.15-18.34.27:466][415]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 139
+[2022.01.15-18.34.27:466][415]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.01.15-18.34.27:496][415]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 129
+[2022.01.15-18.34.27:496][415]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.01.15-18.34.27:539][416]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 119
+[2022.01.15-18.34.27:539][416]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.01.15-18.34.29:199][475]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 109
+[2022.01.15-18.34.29:199][475]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 99
+[2022.01.15-18.34.29:199][475]LogShaderCompilers: Display: Started 20 'Local' shader compile jobs with 'Normal' priority
+[2022.01.15-18.34.29:230][476]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 89
+[2022.01.15-18.34.29:230][476]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.01.15-18.34.29:367][482]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 79
+[2022.01.15-18.34.29:368][482]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.01.15-18.34.30:306][506]LogScript: Warning: Accessed None trying to read property BP Enemy REF
+	BP_Enemy_Animation_C /Engine/Transient.World_24:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BP_Enemy_Animation_C_0
+	Function /Game/EnemyAnimations/BP_Enemy_Animation.BP_Enemy_Animation_C:ExecuteUbergraph_BP_Enemy_Animation:0031
+[2022.01.15-18.34.30:535][520]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 69
+[2022.01.15-18.34.30:535][520]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Normal' priority
+[2022.01.15-18.34.30:933][540]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 60
+[2022.01.15-18.34.30:933][540]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.01.15-18.34.31:155][540]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 52
+[2022.01.15-18.34.31:155][540]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Normal' priority
+[2022.01.15-18.34.31:850][545]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 45
+[2022.01.15-18.34.31:850][545]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2022.01.15-18.34.32:729][559]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 39
+[2022.01.15-18.34.32:729][559]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.01.15-18.34.32:755][559]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 34
+[2022.01.15-18.34.32:755][559]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.01.15-18.34.32:928][559]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 29
+[2022.01.15-18.34.32:928][559]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.01.15-18.34.33:281][573]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2022.01.15-18.34.33:281][573]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.01.15-18.34.33:438][578]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 21
+[2022.01.15-18.34.33:438][578]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.01.15-18.34.33:482][578]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 18
+[2022.01.15-18.34.33:482][578]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.01.15-18.34.34:113][591]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 15
+[2022.01.15-18.34.34:113][591]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.01.15-18.34.34:138][592]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 13
+[2022.01.15-18.34.34:138][592]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.01.15-18.34.34:394][600]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2022.01.15-18.34.34:394][600]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.01.15-18.34.34:453][602]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2022.01.15-18.34.34:453][602]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.01.15-18.34.34:566][606]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2022.01.15-18.34.34:566][606]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.01.15-18.34.34:595][607]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2022.01.15-18.34.34:595][607]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.01.15-18.34.34:737][609]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2022.01.15-18.34.34:737][609]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2022.01.15-18.34.34:737][609]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.01.15-18.34.34:788][611]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2022.01.15-18.34.34:788][611]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.01.15-18.34.34:979][615]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2022.01.15-18.34.34:979][615]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.01.15-18.34.35:044][617]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2022.01.15-18.34.35:044][617]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.01.15-18.35.21:198][151]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.01.15-18.35.50:613][223]Cmd: DELETE
+[2022.01.15-18.35.50:613][223]Cmd: ACTOR DELETE
+[2022.01.15-18.35.50:615][223]LogEditorActor: Deleted Actor: Brush
+[2022.01.15-18.35.50:658][223]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2022.01.15-18.35.50:670][223]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2022.01.15-18.37.28:406][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   5.60ms
+[2022.01.15-18.37.28:421][ 72]LogSavePackage: Moving 'C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Saved/Gameplay_Auto35CD876EB48EF20ADD1CC80A05BA85209.tmp' to 'C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Saved/Autosaves/Game/Maps/Gameplay_Auto3.umap'
+[2022.01.15-18.37.28:423][ 72]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Gameplay' took 0.062
+[2022.01.15-18.37.28:423][ 72]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.062
+[2022.01.15-18.38.12:497][978]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.15-18.38.12:505][978]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.15-18.38.12:505][978]PIE: New page: PIE session: Gameplay (Jan 15, 2022, 8:38:12 AM)
+[2022.01.15-18.38.12:529][978]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Gameplay
+[2022.01.15-18.38.12:532][978]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003030s)
+[2022.01.15-18.38.12:533][978]LogAIModule: Creating AISystem for world Gameplay
+[2022.01.15-18.38.12:533][978]LogPlayLevel: PIE: World Init took: (0.000975s)
+[2022.01.15-18.38.12:533][978]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Gameplay.Gameplay to /Game/Maps/UEDPIE_0_Gameplay.Gameplay (0.004141s)
+[2022.01.15-18.38.12:577][978]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2022.01.15-18.38.12:580][978]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.01.15-18.38.12:580][978]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.15-18.38.12:580][978]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.15-18.38.12:580][978]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.15-18.38.12:580][978]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.15-18.38.12:580][978]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.15-18.38.12:580][978]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.15-18.38.12:580][978]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.15-18.38.12:580][978]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.15-18.38.12:581][978]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.15-18.38.12:581][978]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.15-18.38.12:581][978]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.15-18.38.12:581][978]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.15-18.38.12:584][978]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.15-18.38.12:584][978]LogAudioMixer: Display: 1: FrontRight
+[2022.01.15-18.38.12:591][978]LogAudioMixer: Display: Using Audio Device 4 - 27GL850 (AMD High Definition Audio Device)
+[2022.01.15-18.38.12:591][978]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.15-18.38.12:591][978]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.15-18.38.12:592][978]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.15-18.38.12:592][978]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.15-18.38.12:592][978]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.15-18.38.12:592][978]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.15-18.38.12:593][978]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.15-18.38.12:593][978]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.15-18.38.12:593][978]LogInit: FAudioDevice initialized.
+[2022.01.15-18.38.12:593][978]LogAudio: Display: Audio Device (ID: 10) registered with world 'Gameplay'.
+[2022.01.15-18.38.12:604][978]LogLoad: Game class is 'BP_MonsterShooterGameMode_C'
+[2022.01.15-18.38.12:605][978]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Gameplay.Gameplay up for play (max tick rate 0) at 2022.01.15-13.38.12
+[2022.01.15-18.38.12:609][978]LogWorld: Bringing up level for play took: 0.005056
+[2022.01.15-18.38.12:609][978]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2022.01.15-18.38.12:612][978]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.01.15-18.38.12:612][978]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.01.15-18.38.12:612][978]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.01.15-18.38.12:614][978]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.01.15-18.38.12:614][978]PIE: Server logged in
+[2022.01.15-18.38.12:615][978]PIE: Play in editor total start time 0.112 seconds.
+[2022.01.15-18.38.19:360][779]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.15-18.38.19:360][779]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Gameplay
+[2022.01.15-18.38.19:360][779]LogWorld: UWorld::CleanupWorld for Gameplay, bSessionEnded=true, bCleanupResources=true
+[2022.01.15-18.38.19:360][779]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.15-18.38.19:367][779]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.15-18.38.19:387][779]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.15-18.38.19:425][779]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.15-18.38.19:426][779]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.15-18.38.19:427][779]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.15-18.38.19:435][779]LogUObjectHash: Compacting FUObjectHashTables data took   5.31ms
+[2022.01.15-18.38.19:476][780]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2022.01.15-18.39.44:500][449]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.01.15-18.43.02:834][592]Cmd: TRANSACTION UNDO
+[2022.01.15-18.43.02:834][592]LogEditorTransaction: Undo Move Actors
+[2022.01.15-18.44.48:006][791]Cmd: TRANSACTION UNDO
+[2022.01.15-18.44.48:006][791]LogEditorTransaction: Undo Create Actors
+[2022.01.15-18.44.48:014][791]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Maps/Gameplay.Gameplay:PersistentLevel.ModelComponent_335' invalid (152 verts, 0 indices).
+[2022.01.15-18.44.48:014][791]LogPhysics: Warning: Attempt to build physics data for /Game/Maps/Gameplay.Gameplay:PersistentLevel.ModelComponent_335.BodySetup_0 when we are unable to.
+[2022.01.15-18.45.46:217][595]LogUObjectHash: Compacting FUObjectHashTables data took   5.78ms
+[2022.01.15-18.45.46:241][595]LogSavePackage: Moving 'C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Saved/Gameplay936DFEF94DF40FFB89112891F573C229.tmp' to 'C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Content/Maps/Gameplay.umap'
+[2022.01.15-18.45.46:255][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Gameplay_BuiltData" FILE="C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Content/Maps/Gameplay_BuiltData.uasset" SILENT=true
+[2022.01.15-18.45.46:268][595]LogSavePackage: Moving 'C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Saved/Gameplay_BuiltDataF86B28A144F16CC6E2818CAD376DA952.tmp' to 'C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Content/Maps/Gameplay_BuiltData.uasset'
+[2022.01.15-18.45.46:292][595]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.15-18.45.46:292][595]LogContentValidation: Display: Validating World /Game/Maps/Gameplay.Gameplay
+[2022.01.15-18.45.46:292][595]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Gameplay_BuiltData.Gameplay_BuiltData
+[2022.01.15-18.45.54:749][446]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.15-18.45.54:749][446]PIE: New page: SIE session: Gameplay (Jan 15, 2022, 8:45:54 AM)
+[2022.01.15-18.45.54:778][446]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Gameplay
+[2022.01.15-18.45.54:783][446]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004578s)
+[2022.01.15-18.45.54:784][446]LogAIModule: Creating AISystem for world Gameplay
+[2022.01.15-18.45.54:784][446]LogPlayLevel: PIE: World Init took: (0.001131s)
+[2022.01.15-18.45.54:784][446]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Gameplay.Gameplay to /Game/Maps/UEDPIE_0_Gameplay.Gameplay (0.005838s)
+[2022.01.15-18.45.54:831][446]LogUObjectHash: Compacting FUObjectHashTables data took   5.59ms
+[2022.01.15-18.45.54:834][446]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.01.15-18.45.54:834][446]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.15-18.45.54:834][446]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.15-18.45.54:834][446]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.15-18.45.54:834][446]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.15-18.45.54:834][446]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.15-18.45.54:834][446]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.15-18.45.54:835][446]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.15-18.45.54:835][446]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.15-18.45.54:835][446]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.15-18.45.54:835][446]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.15-18.45.54:835][446]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.15-18.45.54:835][446]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.15-18.45.54:838][446]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.15-18.45.54:838][446]LogAudioMixer: Display: 1: FrontRight
+[2022.01.15-18.45.54:845][446]LogAudioMixer: Display: Using Audio Device 4 - 27GL850 (AMD High Definition Audio Device)
+[2022.01.15-18.45.54:846][446]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.15-18.45.54:846][446]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.15-18.45.54:846][446]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.15-18.45.54:846][446]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.15-18.45.54:846][446]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.15-18.45.54:846][446]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.15-18.45.54:847][446]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.15-18.45.54:847][446]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.15-18.45.54:847][446]LogInit: FAudioDevice initialized.
+[2022.01.15-18.45.54:847][446]LogAudio: Display: Audio Device (ID: 11) registered with world 'Gameplay'.
+[2022.01.15-18.45.54:859][446]LogLoad: Game class is 'BP_MonsterShooterGameMode_C'
+[2022.01.15-18.45.54:861][446]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Gameplay.Gameplay up for play (max tick rate 0) at 2022.01.15-13.45.54
+[2022.01.15-18.45.54:861][446]LogWorld: Bringing up level for play took: 0.001410
+[2022.01.15-18.45.54:861][446]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2022.01.15-18.45.54:863][446]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.01.15-18.45.54:866][446]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.01.15-18.45.54:866][446]PIE: Server logged in
+[2022.01.15-18.45.54:866][446]PIE: Play in editor total start time 0.119 seconds.
+[2022.01.15-18.45.54:883][446]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.54:914][447]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.54:931][448]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.54:950][449]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.54:967][450]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.54:985][451]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:003][452]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:020][453]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:037][454]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:055][455]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:072][456]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:089][457]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:106][458]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:118][459]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:127][460]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:136][461]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:144][462]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:153][463]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:161][464]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:170][465]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:179][466]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:188][467]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:197][468]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:205][469]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:214][470]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:223][471]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:233][472]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:242][473]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:251][474]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:261][475]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:270][476]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:279][477]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:288][478]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:297][479]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:307][480]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:316][481]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:326][482]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:335][483]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:344][484]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:353][485]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:362][486]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:370][487]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:379][488]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:388][489]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:396][490]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:406][491]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:415][492]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:423][493]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:432][494]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:443][495]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:452][496]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:461][497]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:469][498]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:478][499]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:488][500]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:497][501]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:505][502]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:514][503]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:523][504]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:532][505]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:541][506]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:550][507]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:558][508]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:567][509]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:576][510]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:584][511]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:593][512]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:602][513]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:610][514]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:618][515]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:626][516]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:636][517]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:644][518]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:653][519]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:661][520]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:670][521]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:678][522]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:687][523]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:695][524]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:704][525]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:712][526]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:721][527]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:729][528]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:739][529]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:749][530]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:758][531]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:767][532]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:775][533]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:784][534]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:793][535]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:802][536]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:811][537]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:819][538]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:828][539]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:837][540]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:846][541]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:854][542]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:863][543]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:871][544]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:880][545]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:888][546]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:902][547]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:910][548]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:922][549]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:931][550]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:941][551]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:950][552]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:958][553]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:966][554]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:975][555]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:983][556]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.55:992][557]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:001][558]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:009][559]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:022][560]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:030][561]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:039][562]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:048][563]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:056][564]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:064][565]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:073][566]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:082][567]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:091][568]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:099][569]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:107][570]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:116][571]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:124][572]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:132][573]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:141][574]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:156][575]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:165][576]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:173][577]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:181][578]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:190][579]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:199][580]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:208][581]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:217][582]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:225][583]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:234][584]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:243][585]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:252][586]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:262][587]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:270][588]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:280][589]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:289][590]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:298][591]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:306][592]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:315][593]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:324][594]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:333][595]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:342][596]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:351][597]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:360][598]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:369][599]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:376][600]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:385][601]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:393][602]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:402][603]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:410][604]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:419][605]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:429][606]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:438][607]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:447][608]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:455][609]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:464][610]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:473][611]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:482][612]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:490][613]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:499][614]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:507][615]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:521][616]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:530][617]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:539][618]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:548][619]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:556][620]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:565][621]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:573][622]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:582][623]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:591][624]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:605][625]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:614][626]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:622][627]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:631][628]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:640][629]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:649][630]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:657][631]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:665][632]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:674][633]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:682][634]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:690][635]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:700][636]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:708][637]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:716][638]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:725][639]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:734][640]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:742][641]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:751][642]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:760][643]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:773][644]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:783][645]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:791][646]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:800][647]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:809][648]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:818][649]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:826][650]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:834][651]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:843][652]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:852][653]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:860][654]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:870][655]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:878][656]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:887][657]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:896][658]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:904][659]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:913][660]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:921][661]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:929][662]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:940][663]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:948][664]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:956][665]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.56:985][666]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.57:002][667]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.57:010][668]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.57:018][669]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.57:027][670]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.57:035][671]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.57:043][672]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.57:052][673]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.57:060][674]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.57:070][675]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.57:078][676]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.57:086][677]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.57:095][678]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.57:114][679]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.57:131][680]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.57:148][681]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.57:165][682]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.57:183][683]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.57:201][684]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.57:218][685]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.57:235][686]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.57:243][687]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.57:262][688]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.57:280][689]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.57:297][690]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.57:314][691]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.57:332][692]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.57:350][693]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.57:367][694]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.57:385][695]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.57:403][696]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.57:421][697]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.57:439][698]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Monster Shooter Game Mode REF". Blueprint:  BP_UI Function:  Display Countdown Timer Graph:  Display Countdown Timer Node:  Return Node
+[2022.01.15-18.45.57:469][699]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.15-18.45.57:469][699]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Gameplay
+[2022.01.15-18.45.57:470][699]LogWorld: UWorld::CleanupWorld for Gameplay, bSessionEnded=true, bCleanupResources=true
+[2022.01.15-18.45.57:470][699]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.15-18.45.57:480][699]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.15-18.45.57:499][699]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.15-18.45.57:537][699]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.15-18.45.57:537][699]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.15-18.45.57:538][699]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.15-18.45.57:540][699]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.15-18.45.57:546][699]LogUObjectHash: Compacting FUObjectHashTables data took   5.26ms
+[2022.01.15-18.45.57:675][700]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2022.01.15-18.45.59:217][816]LogSlate: Window 'Message Log' being destroyed
+[2022.01.15-18.45.59:253][816]LogSlate: Window 'Message Log' being destroyed
+[2022.01.15-18.46.04:242][328]Cmd: TRANSACTION UNDO
+[2022.01.15-18.46.04:242][328]LogEditorTransaction: Undo Move Actors
+[2022.01.15-18.46.28:697][680]LogUObjectHash: Compacting FUObjectHashTables data took   5.25ms
+[2022.01.15-18.46.28:714][680]LogSavePackage: Moving 'C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Saved/Gameplay78B309EC47F21458CA0B34982817FE61.tmp' to 'C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Content/Maps/Gameplay.umap'
+[2022.01.15-18.46.28:724][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Gameplay_BuiltData" FILE="C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Content/Maps/Gameplay_BuiltData.uasset" SILENT=true
+[2022.01.15-18.46.28:738][680]LogSavePackage: Moving 'C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Saved/Gameplay_BuiltDataCF6AD5E7478B468F03AFF699D35E14F7.tmp' to 'C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Content/Maps/Gameplay_BuiltData.uasset'
+[2022.01.15-18.46.28:764][680]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.15-18.46.28:764][680]LogContentValidation: Display: Validating World /Game/Maps/Gameplay.Gameplay
+[2022.01.15-18.46.28:764][680]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Gameplay_BuiltData.Gameplay_BuiltData
+[2022.01.15-18.48.48:574][273]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2022.01.15-18.48.48:574][273]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Content/Developers/ajsut/Collections/' because it could not be accessed. Aborting watch request...
+[2022.01.15-18.48.48:574][273]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/ajsut/Documents/Unreal Projects/MonsterShooterFps/Fps_Monster_Shooter/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2022.01.15-18.53.27:170][406]LogTexture: Display: Building textures: T_Flame_002_cc (OODLE_AutoDXT, 1024X1024)
+[2022.01.15-18.53.27:170][406]LogStaticMesh: Building static mesh SM_FireLightStand_B_001_on...
+[2022.01.15-18.53.27:173][406]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.15-18.53.27:601][406]LogTexture: Display: Building textures: T_DungeonLamps_001_em (OODLE_AutoDXT, 8192X8192)
+[2022.01.15-18.53.27:814][406]LogStaticMesh: Built static mesh [0.94s] /Game/DungeonLamps/Meshes/SM_FireLightStand_B_001_on.SM_FireLightStand_B_001_on
+[2022.01.15-18.54.25:277][406]LogTextureFormatOodle: Display: non-RDO encode 8192 x 8192 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.01.15-18.54.25:281][406]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.01.15-18.54.25:281][406]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.01.15-18.54.25:281][406]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.01.15-18.54.25:281][406]LogTexture: Display: Building textures: T_DungeonLamps_002_cc (OODLE_AutoDXT, 8192X8192)
+[2022.01.15-18.54.25:281][406]LogTexture: Display: Building textures: T_DungeonLamps_002_aorame (OODLE_AutoDXT, 8192X8192)
+[2022.01.15-18.54.25:281][406]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.01.15-18.54.25:282][406]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.15-18.54.25:282][406]LogTextureFormatOodle: Display: non-RDO encode 8192 x 8192 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.15-18.54.25:282][406]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.15-18.54.25:282][406]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.15-18.54.25:282][406]LogTexture: Display: Building textures: T_DungeonLamps_002_nm (OODLE_BC5, 8192X8192)
+[2022.01.15-18.54.25:282][406]LogTexture: Display: Building textures: T_DungeonLamps_001_aorame (OODLE_AutoDXT, 8192X8192)
+[2022.01.15-18.54.25:282][406]LogTextureFormatOodle: Display: non-RDO encode 8192 x 8192 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.15-18.54.25:282][406]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.15-18.54.25:282][406]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.15-18.54.25:282][406]LogTexture: Display: Building textures: T_DungeonLamps_001_cc (OODLE_AutoDXT, 8192X8192)
+[2022.01.15-18.54.25:282][406]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.01.15-18.54.25:282][406]LogTexture: Display: Building textures: T_DungeonLamps_001_nm (OODLE_BC5, 8192X8192)
+[2022.01.15-18.54.25:282][406]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.15-18.54.25:282][406]LogTextureFormatOodle: Display: non-RDO encode 8192 x 8192 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.15-18.54.25:282][406]LogTextureFormatOodle: Display: non-RDO encode 8192 x 8192 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.15-18.54.25:282][406]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.15-18.54.25:282][406]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.15-18.54.25:282][406]LogTextureFormatOodle: Display: non-RDO encode 8192 x 8192 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.01.15-18.54.25:282][406]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.01.15-18.54.25:282][406]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.15-18.54.25:282][406]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.15-18.54.25:282][406]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.15-18.54.25:283][406]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.15-18.54.25:283][406]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.01.15-18.54.25:283][406]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.01.15-18.54.25:283][406]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.01.15-18.54.25:283][406]LogTextureFormatOodle: Display: non-RDO encode 8192 x 8192 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.01.15-18.54.25:283][406]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.01.15-18.54.25:283][406]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.01.15-18.54.25:283][406]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.01.15-18.54.25:283][406]LogMaterial: Display: Missing cached shadermap for M_DungeonLamps_Base in PCD3D_SM5, Default, SM5 (DDC key hash: 7498D1049CE6DFA3284BF48E201975B8B5969518), compiling. 
+[2022.01.15-18.54.25:877][406]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.01.15-18.54.28:631][406]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 25
+[2022.01.15-18.54.28:631][406]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 21
+[2022.01.15-18.54.28:631][406]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 17
+[2022.01.15-18.54.28:631][406]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 13
+[2022.01.15-18.54.28:631][406]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2022.01.15-18.54.28:631][406]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2022.01.15-18.54.28:631][406]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2022.01.15-18.54.28:631][406]LogShaderCompilers: Display: Started 25 'Local' shader compile jobs with 'Low' priority
+[2022.01.15-18.54.29:090][406]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.01.15-18.54.29:090][406]LogShaderCompilers: Display: Total job queries 397, among them cache hits 28 (7.05%)
+[2022.01.15-18.54.29:090][406]LogShaderCompilers: Display: Tracking 240 distinct input hashes that result in 112 distinct outputs (46.67%)
+[2022.01.15-18.54.29:091][406]LogShaderCompilers: Display: RAM used: 0.54 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.07%
+[2022.01.15-18.54.29:091][406]LogShaderCompilers: Display: ================================================
