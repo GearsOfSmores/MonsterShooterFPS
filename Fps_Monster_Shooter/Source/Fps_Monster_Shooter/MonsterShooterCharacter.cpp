@@ -150,3 +150,21 @@ void AMonsterShooterCharacter::LookAtRate(float Rate)
 	AddControllerPitchInput(Rate * LookUpRate * GetWorld()->GetDeltaSeconds());
 }
 
+void AMonsterShooterCharacter::DealDamage(float DamageAmount)
+{
+	Health -= DamageAmount;
+
+	if (Health <= 0.0f)
+	{
+
+		AMonsterShooterGameMode* MyGameMode =
+			Cast<AMonsterShooterGameMode>(UGameplayStatics::GetGameMode(GetWorld()));
+		if (MyGameMode)
+		{
+			MyGameMode->RestartGameplay(false);
+		}
+
+		Destroy();
+	}
+}
+

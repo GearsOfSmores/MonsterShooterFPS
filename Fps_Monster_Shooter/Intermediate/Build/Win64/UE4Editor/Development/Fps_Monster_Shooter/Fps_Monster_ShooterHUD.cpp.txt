@@ -1,11 +1,11 @@
-C:\Users\ajsut\Documents\Unreal Projects\MonsterShooterFPS\Fps_Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Fps_Monster_Shooter\Definitions.Fps_Monster_Shooter.h
-C:\Users\ajsut\Documents\Unreal Projects\MonsterShooterFPS\Fps_Monster_Shooter\Source\Fps_Monster_Shooter\Fps_Monster_ShooterHUD.h
+C:\Users\ajsut\Documents\Unreal Projects\MonsterShooterFps\Fps_Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Fps_Monster_Shooter\Definitions.Fps_Monster_Shooter.h
+C:\Users\ajsut\Documents\Unreal Projects\MonsterShooterFps\Fps_Monster_Shooter\Source\Fps_Monster_Shooter\Fps_Monster_ShooterHUD.h
 E:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/HUD.h
 E:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/HUDHitBox.h
 E:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/DebugTextInfo.h
 E:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DebugTextInfo.generated.h
 E:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\HUD.generated.h
-C:\Users\ajsut\Documents\Unreal Projects\MonsterShooterFPS\Fps_Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Inc\Fps_Monster_Shooter\Fps_Monster_ShooterHUD.generated.h
+C:\Users\ajsut\Documents\Unreal Projects\MonsterShooterFps\Fps_Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Inc\Fps_Monster_Shooter\Fps_Monster_ShooterHUD.generated.h
 E:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/Canvas.h
 E:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\CanvasItem.h
 E:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/Font.h

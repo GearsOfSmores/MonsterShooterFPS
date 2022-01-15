@@ -8,8 +8,8 @@
 #include "UObject/ScriptMacros.h"
 
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
-class UPrimitiveComponent;
 class AActor;
+class UPrimitiveComponent;
 struct FHitResult;
 #ifdef FPS_MONSTER_SHOOTER_Enemy_generated_h
 #error "Enemy.generated.h already included, missing '#pragma once' in Enemy.h"
@@ -19,11 +19,13 @@ struct FHitResult;
 #define Fps_Monster_Shooter_Source_Fps_Monster_Shooter_Enemy_h_12_SPARSE_DATA
 #define Fps_Monster_Shooter_Source_Fps_Monster_Shooter_Enemy_h_12_RPC_WRAPPERS \
  \
+	DECLARE_FUNCTION(execOnSensed); \
 	DECLARE_FUNCTION(execOnHit);
 
 
 #define Fps_Monster_Shooter_Source_Fps_Monster_Shooter_Enemy_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
  \
+	DECLARE_FUNCTION(execOnSensed); \
 	DECLARE_FUNCTION(execOnHit);
 
 
