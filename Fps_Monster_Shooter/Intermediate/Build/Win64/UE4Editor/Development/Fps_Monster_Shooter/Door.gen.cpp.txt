@@ -1,5 +1,0 @@
-C:\Users\ajsut\Documents\Unreal Projects\MonsterShooterFps\Fps_Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Fps_Monster_Shooter\Definitions.Fps_Monster_Shooter.h
-E:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-E:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\Users\ajsut\Documents\Unreal Projects\MonsterShooterFps\Fps_Monster_Shooter\Source\Fps_Monster_Shooter/Door.h
-C:\Users\ajsut\Documents\Unreal Projects\MonsterShooterFps\Fps_Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Inc\Fps_Monster_Shooter\Door.generated.h
